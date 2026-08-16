@@ -78,13 +78,13 @@
 
 ### Hydrogen (Headless)
 
-* [Hydrogen](https://hydrogen.shopify.dev) - Headless stack for custom storefronts. [Source code](https://github.com/Shopify/hydrogen) ⭐ 2,089 | 🐛 79 | 🌐 TypeScript | 📅 2026-08-14.
+* [Hydrogen](https://hydrogen.shopify.dev) - Headless stack for custom storefronts. [Source code](https://github.com/Shopify/hydrogen) ⭐ 2,091 | 🐛 79 | 🌐 TypeScript | 📅 2026-08-14.
 * [Fluid](https://github.com/frontvibe/fluid) ⭐ 290 | 🐛 17 | 🌐 TypeScript | 📅 2026-08-10 - Hydrogen + Sanity for structured content management.
 * [Hydrogen Demo Store](https://github.com/Shopify/hydrogen-demo-store) ⭐ 235 | 🐛 45 | 🌐 TypeScript | 📅 2026-07-01 - Official Hydrogen + Remix template, with full setup of components, queries and tooling for building a headless Shopify storefront. Deployed at hydrogen.shop. 🚀
 * [Pilot (Weaverse Hydrogen Theme)](https://github.com/Weaverse/pilot) ⭐ 190 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-14 - Fully featured Shopify Hydrogen theme crafted for launching modern, high-performance headless storefronts. Includes TypeScript, Tailwind CSS, GraphQL code generation, React Router, Oxygen deployment, and customization via Weaverse Studio. 🚀
 * [montalvomiguelo/hydrogen-theme](https://github.com/montalvomiguelo/hydrogen-theme) ⭐ 180 | 🐛 0 | 🌐 Liquid | 📅 2026-03-19 - A port of Hydrogen's default template to Shopify OS 2.0.
 * [packdigital/pack-hydrogen-theme-blueprint](https://github.com/packdigital/pack-hydrogen-theme-blueprint) ⭐ 102 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-14 - A fully-featured Shopify Hydrogen starter theme packed with versatile components designed to seamlessly integrate with Pack and Shopify Hydrogen.
-* [AEOrank](https://github.com/vinpatel/aeorank/tree/main/packages/shopify) ⭐ 12 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-15 - Hydrogen plugin that generates AI-readable files (llms.txt, ai.txt, CLAUDE.md, schema.json) so ChatGPT and Perplexity can find and cite your products.
+* [AEOrank](https://github.com/vinpatel/aeorank/tree/main/packages/shopify) ⭐ 12 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-16 - Hydrogen plugin that generates AI-readable files (llms.txt, ai.txt, CLAUDE.md, schema.json) so ChatGPT and Perplexity can find and cite your products.
 
 ### Liquid Template
 
@@ -94,7 +94,7 @@
 
 ### Others
 
-* [Shopify Vite](https://github.com/barrel/shopify-vite) ⭐ 458 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-09 - Modern frontend tooling for Shopify theme development using Vite for a best-in-class DX.
+* [Shopify Vite](https://github.com/barrel/shopify-vite) ⭐ 457 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-16 - Modern frontend tooling for Shopify theme development using Vite for a best-in-class DX.
 * [Shopify UI Extensions](https://github.com/Shopify/ui-extensions) ⭐ 341 | 🐛 446 | 🌐 TypeScript | 📅 2026-08-14 – Repo for the public definition of Shopify’s UI extension APIs. Developers use this to build strongly-typed UI extensions for Shopify surfaces. 🧰
 
 ## Mobile
@@ -111,7 +111,7 @@ You can use the iOS and Android Buy SDK to integrate Shopify checkout into your 
 
 Native SDKs for embedding Shopify’s one-page checkout UI directly into mobile apps — supporting styling, lifecycle events, and full checkout integration.
 
-* [Shopify Checkout Sheet Kit (React Native)](https://github.com/Shopify/checkout-sheet-kit-react-native) ⭐ 78 | 🐛 38 | 🌐 TypeScript | 📅 2026-08-14
+* [Shopify Checkout Sheet Kit (React Native)](https://github.com/Shopify/checkout-sheet-kit-react-native) ⭐ 78 | 🐛 37 | 🌐 TypeScript | 📅 2026-08-14
 * [Shopify Checkout Sheet Kit (Swift)](https://github.com/Shopify/checkout-sheet-kit-swift) ⭐ 66 | 🐛 13 | 🌐 Swift | 📅 2026-08-04
 * [Shopify Checkout Sheet Kit (Android)](https://github.com/Shopify/checkout-sheet-kit-android) ⭐ 27 | 🐛 14 | 🌐 Kotlin | 📅 2026-08-14
 
@@ -149,7 +149,7 @@ You can use official Shopify libraries or any of the third party libraries below
 
 ### Java
 
-* [Shopify Java SDK](https://github.com/ChannelApe/shopify-sdk) ⭐ 174 | 🐛 39 | 🌐 Java | 📅 2024-10-18 - Java SDK for Shopify REST APIs.
+* [Shopify Java SDK](https://github.com/ChannelApe/shopify-sdk) ⭐ 173 | 🐛 39 | 🌐 Java | 📅 2024-10-18 - Java SDK for Shopify REST APIs.
 * [shopify-api-java-wrapper](https://github.com/SevenSpikes/shopify-api-java-wrapper) ⭐ 38 | 🐛 2 | 🌐 Java | 📅 2018-08-09 - The Java wrapper for the Shopify API. ⚠️
 
 ### Golang
@@ -204,13 +204,13 @@ You can use official Shopify libraries or any of the third party libraries below
 * [Shopify App Node](https://github.com/Shopify/shopify-app-template-node) ⭐ 1,012 | 🐛 50 | 🌐 JavaScript | 📅 2026-08-05 - Boilerplate to create an embedded Shopify app made with Node, Next.js, Shopify-koa-auth, Polaris, and App Bridge React :sunny:.
 * [VienDinhCom/next-shopify-storefront](https://github.com/VienDinhCom/next-shopify-storefront) ⭐ 866 | 🐛 0 | 🌐 TypeScript | 📅 2026-06-11 - A shopping cart using TypeScript, Tailwind CSS, Headless UI, Next.js, React.js, Hydrogen, and GraphQL API.
 * [Shopify App Template Remix](https://github.com/Shopify/shopify-app-template-remix) ⭐ 552 | 🐛 72 | 🌐 TypeScript | 📅 2026-08-05 - A template for building a Shopify app using the Remix framework.
-* [Shopify app with Next.js and Prisma ORM](https://github.com/kinngh/shopify-nextjs-prisma-app) ⭐ 510 | 🐛 3 | 🌐 JavaScript | 📅 2026-08-12 - Starter template for building embedded Shopify apps using Next.js and Prisma ORM, preconfigured with essential integrations.
+* [Shopify app with Next.js and Prisma ORM](https://github.com/kinngh/shopify-nextjs-prisma-app) ⭐ 510 | 🐛 2 | 🌐 JavaScript | 📅 2026-08-15 - Starter template for building embedded Shopify apps using Next.js and Prisma ORM, preconfigured with essential integrations.
 * [Product Reviews Sample App](https://github.com/Shopify/product-reviews-sample-app) ⭐ 378 | 🐛 28 | 🌐 JavaScript | 📅 2026-02-13 - Sample app was built as a reference for how Shopify Developer tools can be used together to create a fully functional application.
-* [Shopify app with Node.js, MongoDB, React.js and Express](https://github.com/kinngh/shopify-node-express-mongodb-app) ⭐ 344 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-12 - Boilerplate embedded app made with Express.js, MongoDB and React.js with webhooks, GDPR routes, monetization and more hooked up and ready to go.
+* [Shopify app with Node.js, MongoDB, React.js and Express](https://github.com/kinngh/shopify-node-express-mongodb-app) ⭐ 343 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-15 - Boilerplate embedded app made with Express.js, MongoDB and React.js with webhooks, GDPR routes, monetization and more hooked up and ready to go.
 * [Vue Storefront 2](https://github.com/vuestorefront/shopify) ⚠️ Archived - Frontend platform for headless commerce. ⚠️
 * [Next.js App with Session Token](https://github.com/ctrlaltdylan/shopify-session-tokens-nextjs) ⭐ 106 | 🐛 2 | 🌐 JavaScript | 📅 2021-10-31 - An example of a Shopify App powered by Next.js with Session Tokens (no custom server necessary). ⚠️
 * [Shopify Discount App Components)](https://github.com/Shopify/discount-app-components) ⭐ 87 | 🐛 19 | 🌐 TypeScript | 📅 2026-04-28 - A library of discounts-focused React components to help in building Shopify apps.
-* [Shopify App Vue Template](https://github.com/Mini-Sylar/shopify-app-vue-template) ⭐ 86 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-13 - Create a Shopify App with node and vue 3.
+* [Shopify App Vue Template](https://github.com/Mini-Sylar/shopify-app-vue-template) ⭐ 86 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-15 - Create a Shopify App with node and vue 3.
 * [SmallAwesomeShop](https://github.com/JsssCode/SmallAwesomeShop) ⭐ 43 | 🐛 3 | 🌐 TypeScript | 📅 2018-10-17 - An Angular 7 App example using Shopify's Storefront GraphQL API. ⚠️
 * [Shopify App Starter (TypeScript, Mongo, Express, React)](https://github.com/yoMerce/shopify-app-starter) ⭐ 9 | 🐛 0 | 🌐 JavaScript | 📅 2022-09-06 - A shopify app starter written in TypeScript. It uses MongoDB, Express and React. ⚠️
 
@@ -248,7 +248,7 @@ You can use official Shopify libraries or any of the third party libraries below
 ### CLI Tools
 
 * [Theme Kit](https://github.com/Shopify/themekit) ⭐ 1,315 | 🐛 100 | 🌐 Go | 📅 2025-11-20 - Shopify theme development command line tool. ⚠️
-* [Shopify CLI](https://github.com/Shopify/cli) ⭐ 731 | 🐛 112 | 🌐 TypeScript | 📅 2026-08-15 - CLI to build apps, themes, and hydrogen storefronts for Shopify 🚀.
+* [Shopify CLI](https://github.com/Shopify/cli) ⭐ 731 | 🐛 115 | 🌐 TypeScript | 📅 2026-08-16 - CLI to build apps, themes, and hydrogen storefronts for Shopify 🚀.
 * [Theme Check](https://github.com/Shopify/theme-check) ⚠️ Archived - The Ultimate Shopify Theme Linter. ⚠️
 
 ### CI/CD & Deployment
@@ -263,7 +263,7 @@ You can use official Shopify libraries or any of the third party libraries below
 
 ### AI tools
 
-* [Agent plugins/extensions for CLIs and IDEs](https://github.com/shopify/shopify-ai-toolkit) ⭐ 504 | 🐛 16 | 🌐 JavaScript | 📅 2026-08-05
+* [Agent plugins/extensions for CLIs and IDEs](https://github.com/shopify/shopify-ai-toolkit) ⭐ 505 | 🐛 16 | 🌐 JavaScript | 📅 2026-08-05
 
 ### Services
 
@@ -310,4 +310,4 @@ Thanks to all [contributors](https://github.com/julionc/awesome-shopify/graphs/c
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
