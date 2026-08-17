@@ -112,10 +112,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T17:28:03Z",
+            "last_commit": "2026-08-17T13:11:34Z",
             "owner": "Shopify",
             "repo": "hydrogen",
-            "stars": 2091
+            "stars": 2092
           }
         },
         {
@@ -126,7 +126,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-10T09:52:45Z",
+            "last_commit": "2026-08-17T09:50:42Z",
             "owner": "frontvibe",
             "repo": "fluid",
             "stars": 290
@@ -154,7 +154,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T08:52:17Z",
+            "last_commit": "2026-08-17T10:36:58Z",
             "owner": "Weaverse",
             "repo": "pilot",
             "stars": 190
@@ -168,10 +168,10 @@
           "repo_info": {
             "archived": false,
             "language": "Liquid",
-            "last_commit": "2026-03-19T04:07:27Z",
+            "last_commit": "2026-08-16T23:24:27Z",
             "owner": "montalvomiguelo",
             "repo": "hydrogen-theme",
-            "stars": 180
+            "stars": 181
           }
         },
         {
@@ -196,7 +196,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T14:40:43Z",
+            "last_commit": "2026-08-17T14:42:23Z",
             "owner": "vinpatel",
             "repo": "aeorank",
             "stars": 12
@@ -216,7 +216,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T03:48:24Z",
+            "last_commit": "2026-08-17T01:08:04Z",
             "owner": "barrel",
             "repo": "shopify-vite",
             "stars": 457
@@ -230,7 +230,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T20:12:20Z",
+            "last_commit": "2026-08-17T13:59:54Z",
             "owner": "Shopify",
             "repo": "ui-extensions",
             "stars": 341
@@ -359,7 +359,7 @@
             "last_commit": "2026-08-04T18:33:24Z",
             "owner": "Shopify",
             "repo": "shopify-api-ruby",
-            "stars": 1103
+            "stars": 1102
           }
         },
         {
@@ -480,7 +480,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T20:35:23Z",
+            "last_commit": "2026-08-17T04:42:57Z",
             "owner": "nestjs-shopify",
             "repo": "nestjs-shopify",
             "stars": 151
@@ -913,7 +913,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T07:33:03Z",
+            "last_commit": "2026-08-17T07:23:37Z",
             "owner": "Shopify",
             "repo": "example-app--payments-app-template--remix",
             "stars": 27
@@ -927,7 +927,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T07:32:02Z",
+            "last_commit": "2026-08-17T07:22:28Z",
             "owner": "Shopify",
             "repo": "example-app--credit-card-payments-app-template--remix",
             "stars": 16
@@ -1219,7 +1219,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-07-10T12:00:47Z",
+            "last_commit": "2026-08-17T09:37:56Z",
             "owner": "forsbergplustwo",
             "repo": "partner-metrics",
             "stars": 64
@@ -1348,7 +1348,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T00:35:34Z",
+            "last_commit": "2026-08-17T00:22:10Z",
             "owner": "Shopify",
             "repo": "cli",
             "stars": 731
@@ -1446,7 +1446,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T14:54:53.951Z",
+    "last_updated": "2026-08-17T14:57:14.357Z",
     "original_repository": "julionc/awesome-shopify",
     "original_repository_sha": "26e8eb3aec0e34fd9f03a22b51e1bc36e74fe9d2",
     "enhanced_repository": "enhansome/enhansome-shopify",
