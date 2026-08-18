@@ -14,7 +14,7 @@
             "last_commit": "2026-08-10T20:55:54Z",
             "owner": "Shopify",
             "repo": "dawn",
-            "stars": 3056
+            "stars": 3059
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-08-12T12:21:50Z",
             "owner": "Shopify",
             "repo": "horizon",
-            "stars": 438
+            "stars": 440
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2026-08-11T07:11:56Z",
             "owner": "Shopify",
             "repo": "polaris-react-archive",
-            "stars": 6175
+            "stars": 6174
           }
         },
         {
@@ -112,7 +112,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T13:11:34Z",
+            "last_commit": "2026-08-18T14:39:01Z",
             "owner": "Shopify",
             "repo": "hydrogen",
             "stars": 2092
@@ -182,7 +182,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T17:05:45Z",
+            "last_commit": "2026-08-18T00:08:47Z",
             "owner": "packdigital",
             "repo": "pack-hydrogen-theme-blueprint",
             "stars": 102
@@ -196,7 +196,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T14:42:23Z",
+            "last_commit": "2026-08-18T14:45:37Z",
             "owner": "vinpatel",
             "repo": "aeorank",
             "stars": 12
@@ -230,10 +230,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T13:59:54Z",
+            "last_commit": "2026-08-18T14:40:50Z",
             "owner": "Shopify",
             "repo": "ui-extensions",
-            "stars": 341
+            "stars": 342
           }
         }
       ],
@@ -272,7 +272,7 @@
             "last_commit": "2026-05-18T18:52:37Z",
             "owner": "Shopify",
             "repo": "mobile-buy-sdk-android",
-            "stars": 237
+            "stars": 236
           }
         }
       ],
@@ -345,7 +345,7 @@
             "last_commit": "2026-06-25T18:17:09Z",
             "owner": "Shopify",
             "repo": "shopify_app",
-            "stars": 1922
+            "stars": 1923
           }
         },
         {
@@ -441,7 +441,7 @@
             "last_commit": "2026-03-27T20:09:55Z",
             "owner": "Shopify",
             "repo": "js-buy-sdk",
-            "stars": 1016
+            "stars": 1017
           }
         },
         {
@@ -1219,7 +1219,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-08-17T09:37:56Z",
+            "last_commit": "2026-08-17T17:57:11Z",
             "owner": "forsbergplustwo",
             "repo": "partner-metrics",
             "stars": 64
@@ -1348,10 +1348,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T00:22:10Z",
+            "last_commit": "2026-08-18T00:39:23Z",
             "owner": "Shopify",
             "repo": "cli",
-            "stars": 731
+            "stars": 730
           }
         },
         {
@@ -1446,7 +1446,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T14:57:14.357Z",
+    "last_updated": "2026-08-18T15:04:46.302Z",
     "original_repository": "julionc/awesome-shopify",
     "original_repository_sha": "26e8eb3aec0e34fd9f03a22b51e1bc36e74fe9d2",
     "enhanced_repository": "enhansome/enhansome-shopify",
