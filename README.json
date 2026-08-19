@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 379635294,
             "language": "Liquid",
             "last_commit": "2026-08-10T20:55:54Z",
             "owner": "Shopify",
             "repo": "dawn",
-            "stars": 3059
+            "stars": 3060
           }
         },
         {
@@ -24,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1022337986,
             "language": "Liquid",
             "last_commit": "2026-08-12T12:21:50Z",
             "owner": "Shopify",
             "repo": "horizon",
-            "stars": 440
+            "stars": 441
           }
         },
         {
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 94561523,
             "language": null,
             "last_commit": "2017-06-16T17:05:58Z",
             "owner": "shopifypartners",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 86854839,
             "language": null,
             "last_commit": "2017-03-31T20:24:48Z",
             "owner": "shopifypartners",
@@ -63,1215 +67,1313 @@
       "title": "Themes & Design"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Polaris React",
+              "description": "Legacy React component library. GitHub",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 88897663,
+                "language": "TypeScript",
+                "last_commit": "2026-08-11T07:11:56Z",
+                "owner": "Shopify",
+                "repo": "polaris-react-archive",
+                "stars": 6174
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Polaris Vue",
+              "description": "Vue 3 implementation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 427222547,
+                "language": "Vue",
+                "last_commit": "2026-04-02T04:48:45Z",
+                "owner": "ownego",
+                "repo": "polaris-vue",
+                "stars": 182
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Polaris React (Deprecated ⚠️)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Hydrogen",
+              "description": "Headless stack for custom storefronts. Source code.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 538665344,
+                "language": "TypeScript",
+                "last_commit": "2026-08-18T23:24:22Z",
+                "owner": "Shopify",
+                "repo": "hydrogen",
+                "stars": 2092
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Fluid",
+              "description": "Hydrogen + Sanity for structured content management.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 748349268,
+                "language": "TypeScript",
+                "last_commit": "2026-08-17T09:50:42Z",
+                "owner": "frontvibe",
+                "repo": "fluid",
+                "stars": 290
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hydrogen Demo Store",
+              "description": "Official Hydrogen + Remix template, with full setup of components, queries and tooling for building a headless Shopify storefront. Deployed at hydrogen.shop. 🚀",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 757735981,
+                "language": "TypeScript",
+                "last_commit": "2026-07-01T11:48:49Z",
+                "owner": "Shopify",
+                "repo": "hydrogen-demo-store",
+                "stars": 235
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Pilot (Weaverse Hydrogen Theme)",
+              "description": "Fully featured Shopify Hydrogen theme crafted for launching modern, high-performance headless storefronts. Includes TypeScript, Tailwind CSS, GraphQL code generation, React Router, Oxygen deployment, and customization via Weaverse Studio. 🚀",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 631863530,
+                "language": "TypeScript",
+                "last_commit": "2026-08-17T10:36:58Z",
+                "owner": "Weaverse",
+                "repo": "pilot",
+                "stars": 191
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "montalvomiguelo/hydrogen-theme",
+              "description": "A port of Hydrogen's default template to Shopify OS 2.0.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 519976524,
+                "language": "Liquid",
+                "last_commit": "2026-08-16T23:24:27Z",
+                "owner": "montalvomiguelo",
+                "repo": "hydrogen-theme",
+                "stars": 181
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "packdigital/pack-hydrogen-theme-blueprint",
+              "description": "A fully-featured Shopify Hydrogen starter theme packed with versatile components designed to seamlessly integrate with Pack and Shopify Hydrogen.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 760095032,
+                "language": "TypeScript",
+                "last_commit": "2026-08-18T00:08:47Z",
+                "owner": "packdigital",
+                "repo": "pack-hydrogen-theme-blueprint",
+                "stars": 102
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AEOrank",
+              "description": "Hydrogen plugin that generates AI-readable files (llms.txt, ai.txt, CLAUDE.md, schema.json) so ChatGPT and Perplexity can find and cite your products.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1182092885,
+                "language": "TypeScript",
+                "last_commit": "2026-08-18T14:45:37Z",
+                "owner": "vinpatel",
+                "repo": "aeorank",
+                "stars": 12
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Hydrogen (Headless)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Shopify Vite",
+              "description": "Modern frontend tooling for Shopify theme development using Vite for a best-in-class DX.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 499586135,
+                "language": "TypeScript",
+                "last_commit": "2026-08-17T01:08:04Z",
+                "owner": "barrel",
+                "repo": "shopify-vite",
+                "stars": 457
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Shopify UI Extensions",
+              "description": "Repo for the public definition of Shopify’s UI extension APIs. Developers use this to build strongly-typed UI extensions for Shopify surfaces. 🧰",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 263382488,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T10:38:23Z",
+                "owner": "Shopify",
+                "repo": "ui-extensions",
+                "stars": 342
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Others"
+        }
+      ],
       "title": "Frontend Development"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Polaris React",
-          "description": "Legacy React component library. GitHub",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "TypeScript",
-            "last_commit": "2026-08-11T07:11:56Z",
-            "owner": "Shopify",
-            "repo": "polaris-react-archive",
-            "stars": 6174
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Shopify Mobile Buy SDK (iOS)",
+              "description": "iOS SDK to integrate Shopify checkout within native apps. 🧰",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 36382861,
+                "language": "Swift",
+                "last_commit": "2026-04-07T16:03:07Z",
+                "owner": "Shopify",
+                "repo": "mobile-buy-sdk-ios",
+                "stars": 486
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Shopify Mobile Buy SDK (Android)",
+              "description": "Android SDK to integrate Shopify checkout within native apps. 🧰",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 43315252,
+                "language": "Java",
+                "last_commit": "2026-05-18T18:52:37Z",
+                "owner": "Shopify",
+                "repo": "mobile-buy-sdk-android",
+                "stars": 236
+              }
+            }
+          ],
+          "description": "You can use the iOS and Android Buy SDK to integrate Shopify checkout into your mobile applications. This lets you sell physical products directly through your app and track sales in your Shopify Admin. Learn more ›",
+          "node_type": "group",
+          "title": "Buy SDK"
         },
         {
-          "node_type": "item",
-          "title": "Polaris Vue",
-          "description": "Vue 3 implementation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vue",
-            "last_commit": "2026-04-02T04:48:45Z",
-            "owner": "ownego",
-            "repo": "polaris-vue",
-            "stars": 182
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Shopify Checkout Sheet Kit (React Native)",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 716182239,
+                "language": "TypeScript",
+                "last_commit": "2026-08-14T11:34:50Z",
+                "owner": "Shopify",
+                "repo": "checkout-sheet-kit-react-native",
+                "stars": 78
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Shopify Checkout Sheet Kit (Swift)",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 687512015,
+                "language": "Swift",
+                "last_commit": "2026-08-04T21:52:59Z",
+                "owner": "Shopify",
+                "repo": "checkout-sheet-kit-swift",
+                "stars": 66
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Shopify Checkout Sheet Kit (Android)",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 704521719,
+                "language": "Kotlin",
+                "last_commit": "2026-08-14T07:43:43Z",
+                "owner": "Shopify",
+                "repo": "checkout-sheet-kit-android",
+                "stars": 27
+              }
+            }
+          ],
+          "description": "Native SDKs for embedding Shopify’s one-page checkout UI directly into mobile apps — supporting styling, lifecycle events, and full checkout integration.",
+          "node_type": "group",
+          "title": "Checkout Sheet Kit"
         }
       ],
-      "title": "Polaris React (Deprecated ⚠️)"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Hydrogen",
-          "description": "Headless stack for custom storefronts. Source code.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T14:39:01Z",
-            "owner": "Shopify",
-            "repo": "hydrogen",
-            "stars": 2092
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Fluid",
-          "description": "Hydrogen + Sanity for structured content management.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-17T09:50:42Z",
-            "owner": "frontvibe",
-            "repo": "fluid",
-            "stars": 290
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Hydrogen Demo Store",
-          "description": "Official Hydrogen + Remix template, with full setup of components, queries and tooling for building a headless Shopify storefront. Deployed at hydrogen.shop. 🚀",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-01T11:48:49Z",
-            "owner": "Shopify",
-            "repo": "hydrogen-demo-store",
-            "stars": 235
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Pilot (Weaverse Hydrogen Theme)",
-          "description": "Fully featured Shopify Hydrogen theme crafted for launching modern, high-performance headless storefronts. Includes TypeScript, Tailwind CSS, GraphQL code generation, React Router, Oxygen deployment, and customization via Weaverse Studio. 🚀",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-17T10:36:58Z",
-            "owner": "Weaverse",
-            "repo": "pilot",
-            "stars": 190
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "montalvomiguelo/hydrogen-theme",
-          "description": "A port of Hydrogen's default template to Shopify OS 2.0.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Liquid",
-            "last_commit": "2026-08-16T23:24:27Z",
-            "owner": "montalvomiguelo",
-            "repo": "hydrogen-theme",
-            "stars": 181
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "packdigital/pack-hydrogen-theme-blueprint",
-          "description": "A fully-featured Shopify Hydrogen starter theme packed with versatile components designed to seamlessly integrate with Pack and Shopify Hydrogen.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T00:08:47Z",
-            "owner": "packdigital",
-            "repo": "pack-hydrogen-theme-blueprint",
-            "stars": 102
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AEOrank",
-          "description": "Hydrogen plugin that generates AI-readable files (llms.txt, ai.txt, CLAUDE.md, schema.json) so ChatGPT and Perplexity can find and cite your products.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T14:45:37Z",
-            "owner": "vinpatel",
-            "repo": "aeorank",
-            "stars": 12
-          }
-        }
-      ],
-      "title": "Hydrogen (Headless)"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Shopify Vite",
-          "description": "Modern frontend tooling for Shopify theme development using Vite for a best-in-class DX.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-17T01:08:04Z",
-            "owner": "barrel",
-            "repo": "shopify-vite",
-            "stars": 457
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Shopify UI Extensions",
-          "description": "Repo for the public definition of Shopify’s UI extension APIs. Developers use this to build strongly-typed UI extensions for Shopify surfaces. 🧰",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T14:40:50Z",
-            "owner": "Shopify",
-            "repo": "ui-extensions",
-            "stars": 342
-          }
-        }
-      ],
-      "title": "Others"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Mobile"
     },
     {
-      "description": "You can use the iOS and Android Buy SDK to integrate Shopify checkout into your mobile applications. This lets you sell physical products directly through your app and track sales in your Shopify Admin. Learn more ›",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Shopify Mobile Buy SDK (iOS)",
-          "description": "iOS SDK to integrate Shopify checkout within native apps. 🧰",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2026-04-07T16:03:07Z",
-            "owner": "Shopify",
-            "repo": "mobile-buy-sdk-ios",
-            "stars": 486
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Shopify Mobile Buy SDK (Android)",
-          "description": "Android SDK to integrate Shopify checkout within native apps. 🧰",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-05-18T18:52:37Z",
-            "owner": "Shopify",
-            "repo": "mobile-buy-sdk-android",
-            "stars": 236
-          }
-        }
-      ],
-      "title": "Buy SDK"
-    },
-    {
-      "description": "Native SDKs for embedding Shopify’s one-page checkout UI directly into mobile apps — supporting styling, lifecycle events, and full checkout integration.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Shopify Checkout Sheet Kit (React Native)",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-14T11:34:50Z",
-            "owner": "Shopify",
-            "repo": "checkout-sheet-kit-react-native",
-            "stars": 78
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Shopify Checkout Sheet Kit (Swift)",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2026-08-04T21:52:59Z",
-            "owner": "Shopify",
-            "repo": "checkout-sheet-kit-swift",
-            "stars": 66
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Shopify Checkout Sheet Kit (Android)",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-08-14T07:43:43Z",
-            "owner": "Shopify",
-            "repo": "checkout-sheet-kit-android",
-            "stars": 27
-          }
-        }
-      ],
-      "title": "Checkout Sheet Kit"
-    },
-    {
       "description": "You can use official Shopify libraries or any of the third party libraries below for authenticating and interacting with the Shopify API.",
-      "items": [],
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "A Rails Engine for building Shopify Apps",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 61203,
+                "language": "Ruby",
+                "last_commit": "2026-06-25T18:17:09Z",
+                "owner": "Shopify",
+                "repo": "shopify_app",
+                "stars": 1923
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Shopify Ruby API",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 225463,
+                "language": "Ruby",
+                "last_commit": "2026-08-04T18:33:24Z",
+                "owner": "Shopify",
+                "repo": "shopify-api-ruby",
+                "stars": 1102
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Shopify OAuth2 Strategy for OmniAuth",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3274710,
+                "language": "Ruby",
+                "last_commit": "2026-03-27T20:16:16Z",
+                "owner": "Shopify",
+                "repo": "omniauth-shopify-oauth2",
+                "stars": 92
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Ruby"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Shopify Python API",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2249127,
+                "language": "Python",
+                "last_commit": "2026-04-27T20:03:11Z",
+                "owner": "Shopify",
+                "repo": "shopify_python_api",
+                "stars": 1434
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "django-shopify-auth",
+              "description": "A package for adding Shopify authentication to a Django app.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 17163252,
+                "language": "Python",
+                "last_commit": "2025-01-17T08:49:36Z",
+                "owner": "stlk",
+                "repo": "django-shopify-auth",
+                "stars": 149
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Django Shopify Webhook",
+              "description": "A package for receiving Shopify Webhooks in Django.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 49774091,
+                "language": "Python",
+                "last_commit": "2025-02-28T14:51:26Z",
+                "owner": "stlk",
+                "repo": "django-shopify-webhook",
+                "stars": 47
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Python"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "js-buy-sdk",
+              "description": "Shopify JavaScript Buy SDK. (Check Cart API ⚠️)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 49018115,
+                "language": "JavaScript",
+                "last_commit": "2026-03-27T20:09:55Z",
+                "owner": "Shopify",
+                "repo": "js-buy-sdk",
+                "stars": 1017
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "shopify-api-node",
+              "description": "Node.js Shopify connector.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3324676,
+                "language": "JavaScript",
+                "last_commit": "2025-04-11T11:22:09Z",
+                "owner": "MONEI",
+                "repo": "Shopify-api-node",
+                "stars": 977
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Shopify API and app tools for JavaScript",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 526668551,
+                "language": "TypeScript",
+                "last_commit": "2026-08-10T21:29:25Z",
+                "owner": "Shopify",
+                "repo": "shopify-app-js",
+                "stars": 537
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nestjs-shopify",
+              "description": "Packages to develop Shopify application using NestJS.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 518853694,
+                "language": "TypeScript",
+                "last_commit": "2026-08-18T22:30:01Z",
+                "owner": "nestjs-shopify",
+                "repo": "nestjs-shopify",
+                "stars": 151
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "JavaScript"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "orbit-apps/elixir-shopifyapi",
+              "description": "ShopifyAPI and Plug.ShopifyAPI Elixir client.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 129816247,
+                "language": "Elixir",
+                "last_commit": "2026-08-06T01:22:44Z",
+                "owner": "orbit-apps",
+                "repo": "elixir-shopifyapi",
+                "stars": 32
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sticksnleaves/exshopify",
+              "description": "Elixir client for the Shopify API. ⚠️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 73890408,
+                "language": "Elixir",
+                "last_commit": "2021-06-02T18:24:12Z",
+                "owner": "sticksnleaves",
+                "repo": "exshopify",
+                "stars": 13
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Elixir"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Shopify Java SDK",
+              "description": "Java SDK for Shopify REST APIs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 156230119,
+                "language": "Java",
+                "last_commit": "2024-10-18T18:08:36Z",
+                "owner": "ChannelApe",
+                "repo": "shopify-sdk",
+                "stars": 173
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "shopify-api-java-wrapper",
+              "description": "The Java wrapper for the Shopify API. ⚠️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 51817133,
+                "language": "Java",
+                "last_commit": "2018-08-09T07:44:48Z",
+                "owner": "SevenSpikes",
+                "repo": "shopify-api-java-wrapper",
+                "stars": 38
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Java"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "bold-commerce/go-shopify",
+              "description": "Go client for the Shopify API.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 143448238,
+                "language": "Go",
+                "last_commit": "2026-07-10T06:10:22Z",
+                "owner": "bold-commerce",
+                "repo": "go-shopify",
+                "stars": 394
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gopify",
+              "description": "A simple package for developing Shopify applications in Go. ⚠️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 408144223,
+                "language": "Go",
+                "last_commit": "2022-04-10T22:26:46Z",
+                "owner": "oussama4",
+                "repo": "gopify",
+                "stars": 32
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "shoauth",
+              "description": "Shopify oauth (oauth2) middleware for Golang. ⚠️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 32686524,
+                "language": "Go",
+                "last_commit": "2015-04-18T15:51:22Z",
+                "owner": "darrenpeters",
+                "repo": "shoauth",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "go-shopify",
+              "description": "Golang tool for connecting to Shopify's API. ⚠️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 17849813,
+                "language": "Go",
+                "last_commit": "2016-05-19T13:04:47Z",
+                "owner": "kiwih",
+                "repo": "go-shopify",
+                "stars": 7
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Golang"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "phpclassic/php-shopify",
+              "description": "PHP SDK for Shopify API.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 66099039,
+                "language": "PHP",
+                "last_commit": "2026-04-23T17:01:17Z",
+                "owner": "phpclassic",
+                "repo": "php-shopify",
+                "stars": 603
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Kyon147/laravel-shopify",
+              "description": "A full-featured Laravel package for aiding in Shopify App development. ⏱",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 572474590,
+                "language": "PHP",
+                "last_commit": "2026-07-14T10:01:32Z",
+                "owner": "Kyon147",
+                "repo": "laravel-shopify",
+                "stars": 491
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Shopify API Library for PHP",
+              "description": "Official library provides support for PHP Shopify apps to access the Shopify Admin API 🚀.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 347977932,
+                "language": "PHP",
+                "last_commit": "2026-03-13T16:07:40Z",
+                "owner": "Shopify",
+                "repo": "shopify-api-php",
+                "stars": 472
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ohmybrew/Basic-Shopify-API",
+              "description": "A simple, tested, API wrapper for Shopify using Guzzle for REST and GraphQL.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 61004776,
+                "language": "PHP",
+                "last_commit": "2025-01-30T19:30:10Z",
+                "owner": "gnikyt",
+                "repo": "Basic-Shopify-API",
+                "stars": 248
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "slince/shopify-api-php",
+              "description": "Shopify API Client for PHP. ⏱",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 97690649,
+                "language": "PHP",
+                "last_commit": "2023-10-22T12:52:28Z",
+                "owner": "slince",
+                "repo": "shopify-api-php",
+                "stars": 132
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ShopifyExtras/PHP-Shopify-API-Wrapper",
+              "description": "Guzzle-based API client. ⏱",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 27533390,
+                "language": "PHP",
+                "last_commit": "2020-09-24T17:50:39Z",
+                "owner": "ShopifyExtras",
+                "repo": "PHP-Shopify-API-Wrapper",
+                "stars": 119
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "donutdan4114/shopify",
+              "description": "A simple Shopify PHP SDK for private apps to easily interact with the Shopify API. ⚠️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 45628706,
+                "language": "PHP",
+                "last_commit": "2024-08-21T03:45:49Z",
+                "owner": "donutdan4114",
+                "repo": "shopify",
+                "stars": 85
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "oseintow/laravel-shopify",
+              "description": "Laravel Shopify is a simple package which helps to build robust integration into Shopify. ⚠️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 68137189,
+                "language": "PHP",
+                "last_commit": "2023-08-29T11:30:56Z",
+                "owner": "oseintow",
+                "repo": "laravel-shopify",
+                "stars": 71
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ZfrShopify",
+              "description": "Guzzle client around Shopify API.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 42778193,
+                "language": "PHP",
+                "last_commit": "2023-07-15T03:49:08Z",
+                "owner": "zf-fr",
+                "repo": "zfr-shopify",
+                "stars": 36
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "bold-shopify-toolkit",
+              "description": "A Symfony Based Shopify api wrapper.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 97263194,
+                "language": "PHP",
+                "last_commit": "2026-06-22T21:29:35Z",
+                "owner": "bold-commerce",
+                "repo": "bold-shopify-toolkit",
+                "stars": 26
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pizdata/oauth2-shopify-php",
+              "description": "Shopify Provider for the OAuth 2.0 Client. ⏱",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 86447233,
+                "language": "PHP",
+                "last_commit": "2021-06-24T10:14:18Z",
+                "owner": "pizdata",
+                "repo": "oauth2-shopify-php",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "multidimension-al/oauth2-shopify",
+              "description": "Shopify's OAuth 2.0 support for the PHP League's OAuth 2.0 Client. ⏱",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 76279263,
+                "language": "PHP",
+                "last_commit": "2025-02-26T04:52:54Z",
+                "owner": "multidimension-al",
+                "repo": "oauth2-shopify",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tothjmt/Laravel-Shopify",
+              "description": "A Laravel / Shopify API Wrapper. ⚠️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 42196362,
+                "language": "PHP",
+                "last_commit": "2016-01-07T20:33:54Z",
+                "owner": "tothjmt",
+                "repo": "Laravel-Shopify",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "PHP"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Shopify Function Rust",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 536611296,
+                "language": "Rust",
+                "last_commit": "2026-08-18T15:47:34Z",
+                "owner": "Shopify",
+                "repo": "shopify-function-rust",
+                "stars": 47
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ventmere/shopify",
+              "description": "Shopify API Client for Rust. ⏱⚠️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 110716405,
+                "language": "Rust",
+                "last_commit": "2024-12-03T13:36:42Z",
+                "owner": "Ventmere",
+                "repo": "shopify",
+                "stars": 19
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Shopify API Client for Rust",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 552382196,
+                "language": "Rust",
+                "last_commit": "2026-07-28T11:15:21Z",
+                "owner": "0xtlt",
+                "repo": "shopify_api",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "shopify-api-rust",
+              "description": "Rust SDK for the Shopify API.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1142851159,
+                "language": "Rust",
+                "last_commit": "2026-08-10T02:16:03Z",
+                "owner": "saschabratton",
+                "repo": "shopify-api-rust",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Shopify Rust Client",
+              "description": "A type-safe, async Rust client for the Shopify Admin API.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 861204206,
+                "language": "Rust",
+                "last_commit": "2026-08-13T12:31:54Z",
+                "owner": "sinha-sahil",
+                "repo": "shopify-rust-client",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Rust"
+        }
+      ],
       "title": "Libraries"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "A Rails Engine for building Shopify Apps",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Shopify App Template (React Router)",
+              "description": "Template for Shopify apps using React Router for routing instead of Next.js or Remix.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 966163160,
+                "language": "TypeScript",
+                "last_commit": "2026-08-10T04:55:40Z",
+                "owner": "Shopify",
+                "repo": "shopify-app-template-react-router",
+                "stars": 192
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Shopify Payments App Template (Remix)",
+              "description": "Remix template for building Shopify apps with payments integration (Payments App API support). 🚀",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 732170321,
+                "language": "JavaScript",
+                "last_commit": "2026-08-17T07:23:37Z",
+                "owner": "Shopify",
+                "repo": "example-app--payments-app-template--remix",
+                "stars": 27
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Shopify Credit Card Payments Template (Remix)",
+              "description": "Remix example showing Credit Card Payments integration using Shopify’s Payments API. 🏦",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 733662377,
+                "language": "JavaScript",
+                "last_commit": "2026-08-17T07:22:28Z",
+                "owner": "Shopify",
+                "repo": "example-app--credit-card-payments-app-template--remix",
+                "stars": 16
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Shopify Optional Scopes Example (Remix)",
+              "description": "Example showing how to request optional API scopes during app installation, built with Remix.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1037445757,
+                "language": "JavaScript",
+                "last_commit": "2025-10-01T15:31:49Z",
+                "owner": "Shopify",
+                "repo": "example-app--optional-scopes--remix",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Shopify Address Autocomplete Example (Preact)",
+              "description": "Checkout example using Preact to demonstrate address autocomplete enhancements on Shopify checkout.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1064472729,
+                "language": "JavaScript",
+                "last_commit": "2026-01-07T19:39:34Z",
+                "owner": "Shopify",
+                "repo": "example-checkout--address-autocomplete--preact",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Shopify Firebase App",
+              "description": "CLI that scaffolds an embedded Shopify app on Firebase Hosting, Cloud Functions and Firestore, as an alternative to the Remix and React Router templates.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1194239549,
+                "language": "JavaScript",
+                "last_commit": "2026-08-01T12:51:18Z",
+                "owner": "mksd0398",
+                "repo": "create-shopify-firebase-app",
+                "stars": 1
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2026-06-25T18:17:09Z",
-            "owner": "Shopify",
-            "repo": "shopify_app",
-            "stars": 1923
-          }
+          "node_type": "group",
+          "title": "Shopify App Templates"
         },
         {
-          "node_type": "item",
-          "title": "Shopify Ruby API",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Storefront API Examples",
+              "description": "Example custom storefront applications built on Shopify's Storefront API. ⚠️",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 85962411,
+                "language": "JavaScript",
+                "last_commit": "2023-11-20T18:09:26Z",
+                "owner": "Shopify",
+                "repo": "storefront-api-examples",
+                "stars": 1148
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Shopify App Node",
+              "description": "Boilerplate to create an embedded Shopify app made with Node, Next.js, Shopify-koa-auth, Polaris, and App Bridge React :sunny:.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 148527447,
+                "language": "JavaScript",
+                "last_commit": "2026-08-05T11:19:59Z",
+                "owner": "Shopify",
+                "repo": "shopify-app-template-node",
+                "stars": 1012
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "VienDinhCom/next-shopify-storefront",
+              "description": "A shopping cart using TypeScript, Tailwind CSS, Headless UI, Next.js, React.js, Hydrogen, and GraphQL API.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 185577190,
+                "language": "TypeScript",
+                "last_commit": "2026-06-11T14:17:06Z",
+                "owner": "VienDinhCom",
+                "repo": "next-shopify-storefront",
+                "stars": 866
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Shopify App Template Remix",
+              "description": "A template for building a Shopify app using the Remix framework.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 626502239,
+                "language": "TypeScript",
+                "last_commit": "2026-08-05T11:20:52Z",
+                "owner": "Shopify",
+                "repo": "shopify-app-template-remix",
+                "stars": 553
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Shopify app with Next.js and Prisma ORM",
+              "description": "Starter template for building embedded Shopify apps using Next.js and Prisma ORM, preconfigured with essential integrations.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 366094293,
+                "language": "JavaScript",
+                "last_commit": "2026-08-15T17:39:25Z",
+                "owner": "kinngh",
+                "repo": "shopify-nextjs-prisma-app",
+                "stars": 510
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Product Reviews Sample App",
+              "description": "Sample app was built as a reference for how Shopify Developer tools can be used together to create a fully functional application.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 379895233,
+                "language": "JavaScript",
+                "last_commit": "2026-02-13T22:36:39Z",
+                "owner": "Shopify",
+                "repo": "product-reviews-sample-app",
+                "stars": 378
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Shopify app with Node.js, MongoDB, React.js and Express",
+              "description": "Boilerplate embedded app made with Express.js, MongoDB and React.js with webhooks, GDPR routes, monetization and more hooked up and ready to go.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 480020412,
+                "language": "JavaScript",
+                "last_commit": "2026-08-15T17:39:15Z",
+                "owner": "kinngh",
+                "repo": "shopify-node-express-mongodb-app",
+                "stars": 343
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Vue Storefront 2",
+              "description": "Frontend platform for headless commerce. ⚠️",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 312250274,
+                "language": "TypeScript",
+                "last_commit": "2023-01-24T00:32:39Z",
+                "owner": "vuestorefront",
+                "repo": "shopify",
+                "stars": 161
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Next.js App with Session Token",
+              "description": "An example of a Shopify App powered by Next.js with Session Tokens (no custom server necessary). ⚠️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 308463554,
+                "language": "JavaScript",
+                "last_commit": "2021-10-31T00:43:04Z",
+                "owner": "ctrlaltdylan",
+                "repo": "shopify-session-tokens-nextjs",
+                "stars": 106
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Shopify Discount App Components)",
+              "description": "A library of discounts-focused React components to help in building Shopify apps.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 503399936,
+                "language": "TypeScript",
+                "last_commit": "2026-04-28T21:15:25Z",
+                "owner": "Shopify",
+                "repo": "discount-app-components",
+                "stars": 87
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Shopify App Vue Template",
+              "description": "Create a Shopify App with node and vue 3.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 655609309,
+                "language": "JavaScript",
+                "last_commit": "2026-08-15T16:23:22Z",
+                "owner": "Mini-Sylar",
+                "repo": "shopify-app-vue-template",
+                "stars": 86
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SmallAwesomeShop",
+              "description": "An Angular 7 App example using Shopify's Storefront GraphQL API. ⚠️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 101659193,
+                "language": "TypeScript",
+                "last_commit": "2018-10-17T22:07:25Z",
+                "owner": "JsssCode",
+                "repo": "SmallAwesomeShop",
+                "stars": 43
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Shopify App Starter (TypeScript, Mongo, Express, React)",
+              "description": "A shopify app starter written in TypeScript. It uses MongoDB, Express and React. ⚠️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 294308041,
+                "language": "JavaScript",
+                "last_commit": "2022-09-06T06:00:47Z",
+                "owner": "yoMerce",
+                "repo": "shopify-app-starter",
+                "stars": 9
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2026-08-04T18:33:24Z",
-            "owner": "Shopify",
-            "repo": "shopify-api-ruby",
-            "stars": 1102
-          }
+          "node_type": "group",
+          "title": "JavaScript Examples"
         },
         {
-          "node_type": "item",
-          "title": "Shopify OAuth2 Strategy for OmniAuth",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Shopify App Template (Ruby)",
+              "description": "A Rails + React template for building Shopify apps with OAuth, GraphQL & REST APIs, webhooks, and embedded support. 🧰",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 501754305,
+                "language": "Ruby",
+                "last_commit": "2026-08-05T11:20:05Z",
+                "owner": "Shopify",
+                "repo": "shopify-app-template-ruby",
+                "stars": 154
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Shopify Fulfillment Integration",
+              "description": "Example Fulfillment Service Integration with Shopify. ⚠️",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 18927319,
+                "language": "Ruby",
+                "last_commit": "2023-08-18T22:23:02Z",
+                "owner": "Shopify",
+                "repo": "shopify-fulfillment-integration",
+                "stars": 80
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hosted Payment Simulator",
+              "description": "Example of using the Hosted Payment SDK. ⚠️",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 17987862,
+                "language": "HTML",
+                "last_commit": "2019-01-22T19:36:15Z",
+                "owner": "Shopify",
+                "repo": "hosted-payment-sim",
+                "stars": 71
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "partner-metrics",
+              "description": "Metrics Dashboard for Shopify Partners, on Rails. ⚠️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 88376128,
+                "language": "Ruby",
+                "last_commit": "2026-08-17T17:57:11Z",
+                "owner": "forsbergplustwo",
+                "repo": "partner-metrics",
+                "stars": 64
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Shopify app starter kit",
+              "description": "A Shopify app boilerplate written in Ruby on Rails with appropriate tools to get your Shopify app up and running quickly. ⚠️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 102475220,
+                "language": "Ruby",
+                "last_commit": "2019-04-23T14:05:49Z",
+                "owner": "ASoftCo",
+                "repo": "shopify-app-starter-kit",
+                "stars": 42
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "shopify-tax-receipts",
+              "description": "Shopify app for automatically sending tax receipts when specified products are purchased. ⚠️",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 19436962,
+                "language": "Ruby",
+                "last_commit": "2024-03-11T15:51:37Z",
+                "owner": "kevinhughes27",
+                "repo": "shopify-tax-receipts",
+                "stars": 19
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Shopify Surge Pricing",
+              "description": "A demo of surge pricing for Shopify based on cart update webhooks. ⚠️",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 45730293,
+                "language": "Ruby",
+                "last_commit": "2016-03-01T21:41:12Z",
+                "owner": "kevinhughes27",
+                "repo": "shopify-surge-pricing",
+                "stars": 7
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2026-03-27T20:16:16Z",
-            "owner": "Shopify",
-            "repo": "omniauth-shopify-oauth2",
-            "stars": 92
-          }
+          "node_type": "group",
+          "title": "Ruby Examples"
         }
       ],
-      "title": "Ruby"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Shopify Python API",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-27T20:03:11Z",
-            "owner": "Shopify",
-            "repo": "shopify_python_api",
-            "stars": 1434
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "django-shopify-auth",
-          "description": "A package for adding Shopify authentication to a Django app.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-01-17T08:49:36Z",
-            "owner": "stlk",
-            "repo": "django-shopify-auth",
-            "stars": 149
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Django Shopify Webhook",
-          "description": "A package for receiving Shopify Webhooks in Django.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-02-28T14:51:26Z",
-            "owner": "stlk",
-            "repo": "django-shopify-webhook",
-            "stars": 47
-          }
-        }
-      ],
-      "title": "Python"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "js-buy-sdk",
-          "description": "Shopify JavaScript Buy SDK. (Check Cart API ⚠️)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-03-27T20:09:55Z",
-            "owner": "Shopify",
-            "repo": "js-buy-sdk",
-            "stars": 1017
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "shopify-api-node",
-          "description": "Node.js Shopify connector.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-04-11T11:22:09Z",
-            "owner": "MONEI",
-            "repo": "Shopify-api-node",
-            "stars": 977
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Shopify API and app tools for JavaScript",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-10T21:29:25Z",
-            "owner": "Shopify",
-            "repo": "shopify-app-js",
-            "stars": 536
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "nestjs-shopify",
-          "description": "Packages to develop Shopify application using NestJS.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-17T04:42:57Z",
-            "owner": "nestjs-shopify",
-            "repo": "nestjs-shopify",
-            "stars": 151
-          }
-        }
-      ],
-      "title": "JavaScript"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "orbit-apps/elixir-shopifyapi",
-          "description": "ShopifyAPI and Plug.ShopifyAPI Elixir client.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Elixir",
-            "last_commit": "2026-08-06T01:22:44Z",
-            "owner": "orbit-apps",
-            "repo": "elixir-shopifyapi",
-            "stars": 32
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "sticksnleaves/exshopify",
-          "description": "Elixir client for the Shopify API. ⚠️",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Elixir",
-            "last_commit": "2021-06-02T18:24:12Z",
-            "owner": "sticksnleaves",
-            "repo": "exshopify",
-            "stars": 13
-          }
-        }
-      ],
-      "title": "Elixir"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Shopify Java SDK",
-          "description": "Java SDK for Shopify REST APIs.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2024-10-18T18:08:36Z",
-            "owner": "ChannelApe",
-            "repo": "shopify-sdk",
-            "stars": 173
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "shopify-api-java-wrapper",
-          "description": "The Java wrapper for the Shopify API. ⚠️",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2018-08-09T07:44:48Z",
-            "owner": "SevenSpikes",
-            "repo": "shopify-api-java-wrapper",
-            "stars": 38
-          }
-        }
-      ],
-      "title": "Java"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "bold-commerce/go-shopify",
-          "description": "Go client for the Shopify API.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-07-10T06:10:22Z",
-            "owner": "bold-commerce",
-            "repo": "go-shopify",
-            "stars": 394
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gopify",
-          "description": "A simple package for developing Shopify applications in Go. ⚠️",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2022-04-10T22:26:46Z",
-            "owner": "oussama4",
-            "repo": "gopify",
-            "stars": 32
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "shoauth",
-          "description": "Shopify oauth (oauth2) middleware for Golang. ⚠️",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2015-04-18T15:51:22Z",
-            "owner": "darrenpeters",
-            "repo": "shoauth",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "go-shopify",
-          "description": "Golang tool for connecting to Shopify's API. ⚠️",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2016-05-19T13:04:47Z",
-            "owner": "kiwih",
-            "repo": "go-shopify",
-            "stars": 7
-          }
-        }
-      ],
-      "title": "Golang"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "phpclassic/php-shopify",
-          "description": "PHP SDK for Shopify API.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-04-23T17:01:17Z",
-            "owner": "phpclassic",
-            "repo": "php-shopify",
-            "stars": 603
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Kyon147/laravel-shopify",
-          "description": "A full-featured Laravel package for aiding in Shopify App development. ⏱",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-07-14T10:01:32Z",
-            "owner": "Kyon147",
-            "repo": "laravel-shopify",
-            "stars": 490
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Shopify API Library for PHP",
-          "description": "Official library provides support for PHP Shopify apps to access the Shopify Admin API 🚀.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-03-13T16:07:40Z",
-            "owner": "Shopify",
-            "repo": "shopify-api-php",
-            "stars": 472
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ohmybrew/Basic-Shopify-API",
-          "description": "A simple, tested, API wrapper for Shopify using Guzzle for REST and GraphQL.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2025-01-30T19:30:10Z",
-            "owner": "gnikyt",
-            "repo": "Basic-Shopify-API",
-            "stars": 248
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "slince/shopify-api-php",
-          "description": "Shopify API Client for PHP. ⏱",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2023-10-22T12:52:28Z",
-            "owner": "slince",
-            "repo": "shopify-api-php",
-            "stars": 132
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ShopifyExtras/PHP-Shopify-API-Wrapper",
-          "description": "Guzzle-based API client. ⏱",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2020-09-24T17:50:39Z",
-            "owner": "ShopifyExtras",
-            "repo": "PHP-Shopify-API-Wrapper",
-            "stars": 119
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "donutdan4114/shopify",
-          "description": "A simple Shopify PHP SDK for private apps to easily interact with the Shopify API. ⚠️",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2024-08-21T03:45:49Z",
-            "owner": "donutdan4114",
-            "repo": "shopify",
-            "stars": 85
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "oseintow/laravel-shopify",
-          "description": "Laravel Shopify is a simple package which helps to build robust integration into Shopify. ⚠️",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2023-08-29T11:30:56Z",
-            "owner": "oseintow",
-            "repo": "laravel-shopify",
-            "stars": 71
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ZfrShopify",
-          "description": "Guzzle client around Shopify API.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2023-07-15T03:49:08Z",
-            "owner": "zf-fr",
-            "repo": "zfr-shopify",
-            "stars": 36
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "bold-shopify-toolkit",
-          "description": "A Symfony Based Shopify api wrapper.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-06-22T21:29:35Z",
-            "owner": "bold-commerce",
-            "repo": "bold-shopify-toolkit",
-            "stars": 26
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pizdata/oauth2-shopify-php",
-          "description": "Shopify Provider for the OAuth 2.0 Client. ⏱",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2021-06-24T10:14:18Z",
-            "owner": "pizdata",
-            "repo": "oauth2-shopify-php",
-            "stars": 14
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "multidimension-al/oauth2-shopify",
-          "description": "Shopify's OAuth 2.0 support for the PHP League's OAuth 2.0 Client. ⏱",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2025-02-26T04:52:54Z",
-            "owner": "multidimension-al",
-            "repo": "oauth2-shopify",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tothjmt/Laravel-Shopify",
-          "description": "A Laravel / Shopify API Wrapper. ⚠️",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2016-01-07T20:33:54Z",
-            "owner": "tothjmt",
-            "repo": "Laravel-Shopify",
-            "stars": 2
-          }
-        }
-      ],
-      "title": "PHP"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Shopify Function Rust",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-07-31T20:43:02Z",
-            "owner": "Shopify",
-            "repo": "shopify-function-rust",
-            "stars": 47
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ventmere/shopify",
-          "description": "Shopify API Client for Rust. ⏱⚠️",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2024-12-03T13:36:42Z",
-            "owner": "Ventmere",
-            "repo": "shopify",
-            "stars": 19
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Shopify API Client for Rust",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-07-28T11:15:21Z",
-            "owner": "0xtlt",
-            "repo": "shopify_api",
-            "stars": 18
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "shopify-api-rust",
-          "description": "Rust SDK for the Shopify API.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-10T02:16:03Z",
-            "owner": "saschabratton",
-            "repo": "shopify-api-rust",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Shopify Rust Client",
-          "description": "A type-safe, async Rust client for the Shopify Admin API.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-13T12:31:54Z",
-            "owner": "sinha-sahil",
-            "repo": "shopify-rust-client",
-            "stars": 2
-          }
-        }
-      ],
-      "title": "Rust"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Example Apps"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Shopify App Template (React Router)",
-          "description": "Template for Shopify apps using React Router for routing instead of Next.js or Remix.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-10T04:55:40Z",
-            "owner": "Shopify",
-            "repo": "shopify-app-template-react-router",
-            "stars": 192
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Shopify Payments App Template (Remix)",
-          "description": "Remix template for building Shopify apps with payments integration (Payments App API support). 🚀",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-17T07:23:37Z",
-            "owner": "Shopify",
-            "repo": "example-app--payments-app-template--remix",
-            "stars": 27
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Shopify Credit Card Payments Template (Remix)",
-          "description": "Remix example showing Credit Card Payments integration using Shopify’s Payments API. 🏦",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-17T07:22:28Z",
-            "owner": "Shopify",
-            "repo": "example-app--credit-card-payments-app-template--remix",
-            "stars": 16
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Shopify Optional Scopes Example (Remix)",
-          "description": "Example showing how to request optional API scopes during app installation, built with Remix.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-10-01T15:31:49Z",
-            "owner": "Shopify",
-            "repo": "example-app--optional-scopes--remix",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Shopify Address Autocomplete Example (Preact)",
-          "description": "Checkout example using Preact to demonstrate address autocomplete enhancements on Shopify checkout.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-01-07T19:39:34Z",
-            "owner": "Shopify",
-            "repo": "example-checkout--address-autocomplete--preact",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Shopify Firebase App",
-          "description": "CLI that scaffolds an embedded Shopify app on Firebase Hosting, Cloud Functions and Firestore, as an alternative to the Remix and React Router templates.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-01T12:51:18Z",
-            "owner": "mksd0398",
-            "repo": "create-shopify-firebase-app",
-            "stars": 1
-          }
-        }
-      ],
-      "title": "Shopify App Templates"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Storefront API Examples",
-          "description": "Example custom storefront applications built on Shopify's Storefront API. ⚠️",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2023-11-20T18:09:26Z",
-            "owner": "Shopify",
-            "repo": "storefront-api-examples",
-            "stars": 1148
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Shopify App Node",
-          "description": "Boilerplate to create an embedded Shopify app made with Node, Next.js, Shopify-koa-auth, Polaris, and App Bridge React :sunny:.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-05T11:19:59Z",
-            "owner": "Shopify",
-            "repo": "shopify-app-template-node",
-            "stars": 1012
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "VienDinhCom/next-shopify-storefront",
-          "description": "A shopping cart using TypeScript, Tailwind CSS, Headless UI, Next.js, React.js, Hydrogen, and GraphQL API.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-06-11T14:17:06Z",
-            "owner": "VienDinhCom",
-            "repo": "next-shopify-storefront",
-            "stars": 866
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Shopify App Template Remix",
-          "description": "A template for building a Shopify app using the Remix framework.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-05T11:20:52Z",
-            "owner": "Shopify",
-            "repo": "shopify-app-template-remix",
-            "stars": 552
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Shopify app with Next.js and Prisma ORM",
-          "description": "Starter template for building embedded Shopify apps using Next.js and Prisma ORM, preconfigured with essential integrations.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-15T17:39:25Z",
-            "owner": "kinngh",
-            "repo": "shopify-nextjs-prisma-app",
-            "stars": 510
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Product Reviews Sample App",
-          "description": "Sample app was built as a reference for how Shopify Developer tools can be used together to create a fully functional application.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-02-13T22:36:39Z",
-            "owner": "Shopify",
-            "repo": "product-reviews-sample-app",
-            "stars": 378
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Shopify app with Node.js, MongoDB, React.js and Express",
-          "description": "Boilerplate embedded app made with Express.js, MongoDB and React.js with webhooks, GDPR routes, monetization and more hooked up and ready to go.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-15T17:39:15Z",
-            "owner": "kinngh",
-            "repo": "shopify-node-express-mongodb-app",
-            "stars": 343
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Vue Storefront 2",
-          "description": "Frontend platform for headless commerce. ⚠️",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "TypeScript",
-            "last_commit": "2023-01-24T00:32:39Z",
-            "owner": "vuestorefront",
-            "repo": "shopify",
-            "stars": 161
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Next.js App with Session Token",
-          "description": "An example of a Shopify App powered by Next.js with Session Tokens (no custom server necessary). ⚠️",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2021-10-31T00:43:04Z",
-            "owner": "ctrlaltdylan",
-            "repo": "shopify-session-tokens-nextjs",
-            "stars": 106
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Shopify Discount App Components)",
-          "description": "A library of discounts-focused React components to help in building Shopify apps.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-04-28T21:15:25Z",
-            "owner": "Shopify",
-            "repo": "discount-app-components",
-            "stars": 87
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Shopify App Vue Template",
-          "description": "Create a Shopify App with node and vue 3.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-15T16:23:22Z",
-            "owner": "Mini-Sylar",
-            "repo": "shopify-app-vue-template",
-            "stars": 86
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SmallAwesomeShop",
-          "description": "An Angular 7 App example using Shopify's Storefront GraphQL API. ⚠️",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2018-10-17T22:07:25Z",
-            "owner": "JsssCode",
-            "repo": "SmallAwesomeShop",
-            "stars": 43
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Shopify App Starter (TypeScript, Mongo, Express, React)",
-          "description": "A shopify app starter written in TypeScript. It uses MongoDB, Express and React. ⚠️",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-09-06T06:00:47Z",
-            "owner": "yoMerce",
-            "repo": "shopify-app-starter",
-            "stars": 9
-          }
-        }
-      ],
-      "title": "JavaScript Examples"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Shopify App Template (Ruby)",
-          "description": "A Rails + React template for building Shopify apps with OAuth, GraphQL & REST APIs, webhooks, and embedded support. 🧰",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2026-08-05T11:20:05Z",
-            "owner": "Shopify",
-            "repo": "shopify-app-template-ruby",
-            "stars": 154
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Shopify Fulfillment Integration",
-          "description": "Example Fulfillment Service Integration with Shopify. ⚠️",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Ruby",
-            "last_commit": "2023-08-18T22:23:02Z",
-            "owner": "Shopify",
-            "repo": "shopify-fulfillment-integration",
-            "stars": 80
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Hosted Payment Simulator",
-          "description": "Example of using the Hosted Payment SDK. ⚠️",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "HTML",
-            "last_commit": "2019-01-22T19:36:15Z",
-            "owner": "Shopify",
-            "repo": "hosted-payment-sim",
-            "stars": 71
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "partner-metrics",
-          "description": "Metrics Dashboard for Shopify Partners, on Rails. ⚠️",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2026-08-17T17:57:11Z",
-            "owner": "forsbergplustwo",
-            "repo": "partner-metrics",
-            "stars": 64
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Shopify app starter kit",
-          "description": "A Shopify app boilerplate written in Ruby on Rails with appropriate tools to get your Shopify app up and running quickly. ⚠️",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2019-04-23T14:05:49Z",
-            "owner": "ASoftCo",
-            "repo": "shopify-app-starter-kit",
-            "stars": 42
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "shopify-tax-receipts",
-          "description": "Shopify app for automatically sending tax receipts when specified products are purchased. ⚠️",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Ruby",
-            "last_commit": "2024-03-11T15:51:37Z",
-            "owner": "kevinhughes27",
-            "repo": "shopify-tax-receipts",
-            "stars": 19
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Shopify Surge Pricing",
-          "description": "A demo of surge pricing for Shopify based on cart update webhooks. ⚠️",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Ruby",
-            "last_commit": "2016-03-01T21:41:12Z",
-            "owner": "kevinhughes27",
-            "repo": "shopify-surge-pricing",
-            "stars": 7
-          }
-        }
-      ],
-      "title": "Ruby Examples"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1280,6 +1382,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 58849523,
             "language": "Liquid",
             "last_commit": "2020-10-04T09:32:42Z",
             "owner": "freakdesign",
@@ -1294,6 +1397,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 81931492,
             "language": "Liquid",
             "last_commit": "2023-12-31T11:28:26Z",
             "owner": "vikrantnegi",
@@ -1308,6 +1412,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34327301,
             "language": "Liquid",
             "last_commit": "2017-03-06T15:18:01Z",
             "owner": "gocomet",
@@ -1319,135 +1424,142 @@
       "title": "Code Snippets"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Theme Kit",
+              "description": "Shopify theme development command line tool. ⚠️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 25364922,
+                "language": "Go",
+                "last_commit": "2025-11-20T00:01:50Z",
+                "owner": "Shopify",
+                "repo": "themekit",
+                "stars": 1316
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Shopify CLI",
+              "description": "CLI to build apps, themes, and hydrogen storefronts for Shopify 🚀.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 505864478,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T00:37:07Z",
+                "owner": "Shopify",
+                "repo": "cli",
+                "stars": 730
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Theme Check",
+              "description": "The Ultimate Shopify Theme Linter. ⚠️",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 315978274,
+                "language": "Ruby",
+                "last_commit": "2024-07-27T00:33:08Z",
+                "owner": "Shopify",
+                "repo": "theme-check",
+                "stars": 358
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "CLI Tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "vim-liquid",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 539068,
+                "language": "Vim Script",
+                "last_commit": "2025-07-12T00:47:06Z",
+                "owner": "tpope",
+                "repo": "vim-liquid",
+                "stars": 132
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "zed-shopify-liquid",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 795053472,
+                "language": "Tree-sitter Query",
+                "last_commit": "2026-04-07T16:36:39Z",
+                "owner": "TheBeyondGroup",
+                "repo": "zed-shopify-liquid",
+                "stars": 26
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Editors"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Shopify Product CSVs",
+              "description": "Get your Shopify development stores started with great product data.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 121301550,
+                "language": null,
+                "last_commit": "2023-03-30T14:48:49Z",
+                "owner": "shopifypartners",
+                "repo": "product-csvs",
+                "stars": 404
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Shopify Product CSVs and Images",
+              "description": "Get your Shopify development stores started with great product data.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 85344599,
+                "language": null,
+                "last_commit": "2017-03-31T20:18:32Z",
+                "owner": "shopifypartners",
+                "repo": "shopify-product-csvs-and-images",
+                "stars": 136
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Utilities"
+        }
+      ],
       "title": "Developer Tools"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Theme Kit",
-          "description": "Shopify theme development command line tool. ⚠️",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2025-11-20T00:01:50Z",
-            "owner": "Shopify",
-            "repo": "themekit",
-            "stars": 1315
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Shopify CLI",
-          "description": "CLI to build apps, themes, and hydrogen storefronts for Shopify 🚀.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T00:39:23Z",
-            "owner": "Shopify",
-            "repo": "cli",
-            "stars": 730
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Theme Check",
-          "description": "The Ultimate Shopify Theme Linter. ⚠️",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Ruby",
-            "last_commit": "2024-07-27T00:33:08Z",
-            "owner": "Shopify",
-            "repo": "theme-check",
-            "stars": 358
-          }
-        }
-      ],
-      "title": "CLI Tools"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "vim-liquid",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vim Script",
-            "last_commit": "2025-07-12T00:47:06Z",
-            "owner": "tpope",
-            "repo": "vim-liquid",
-            "stars": 132
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "zed-shopify-liquid",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Tree-sitter Query",
-            "last_commit": "2026-04-07T16:36:39Z",
-            "owner": "TheBeyondGroup",
-            "repo": "zed-shopify-liquid",
-            "stars": 26
-          }
-        }
-      ],
-      "title": "Editors"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Shopify Product CSVs",
-          "description": "Get your Shopify development stores started with great product data.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2023-03-30T14:48:49Z",
-            "owner": "shopifypartners",
-            "repo": "product-csvs",
-            "stars": 405
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Shopify Product CSVs and Images",
-          "description": "Get your Shopify development stores started with great product data.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2017-03-31T20:18:32Z",
-            "owner": "shopifypartners",
-            "repo": "shopify-product-csvs-and-images",
-            "stars": 136
-          }
-        }
-      ],
-      "title": "Utilities"
-    },
-    {
-      "description": "Contributions are welcome! Please read the contribution guidelines first.\nThanks to all contributors — you're awesome and this wouldn’t be possible without you! 🙌",
-      "items": [],
-      "title": "Contributing"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T15:04:46.302Z",
+    "last_updated": "2026-08-19T12:51:02.203Z",
     "original_repository": "julionc/awesome-shopify",
+    "original_repository_id": 58393941,
     "original_repository_sha": "26e8eb3aec0e34fd9f03a22b51e1bc36e74fe9d2",
     "enhanced_repository": "enhansome/enhansome-shopify",
     "enhanced_repository_description": null,
