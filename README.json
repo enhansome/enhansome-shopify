@@ -15,7 +15,7 @@
             "last_commit": "2026-08-10T20:55:54Z",
             "owner": "Shopify",
             "repo": "dawn",
-            "stars": 3060
+            "stars": 3061
           }
         },
         {
@@ -117,10 +117,10 @@
                 "archived": false,
                 "id": 538665344,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T14:36:51Z",
+                "last_commit": "2026-08-21T14:26:54Z",
                 "owner": "Shopify",
                 "repo": "hydrogen",
-                "stars": 2093
+                "stars": 2095
               }
             },
             {
@@ -207,10 +207,10 @@
                 "archived": false,
                 "id": 1182092885,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T14:46:27Z",
+                "last_commit": "2026-08-21T14:46:23Z",
                 "owner": "vinpatel",
                 "repo": "aeorank",
-                "stars": 13
+                "stars": 14
               }
             }
           ],
@@ -244,7 +244,7 @@
                 "archived": false,
                 "id": 263382488,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T20:55:44Z",
+                "last_commit": "2026-08-20T19:22:47Z",
                 "owner": "Shopify",
                 "repo": "ui-extensions",
                 "stars": 342
@@ -370,7 +370,7 @@
                 "last_commit": "2026-06-25T18:17:09Z",
                 "owner": "Shopify",
                 "repo": "shopify_app",
-                "stars": 1923
+                "stars": 1924
               }
             },
             {
@@ -489,7 +489,7 @@
                 "last_commit": "2025-04-11T11:22:09Z",
                 "owner": "MONEI",
                 "repo": "Shopify-api-node",
-                "stars": 977
+                "stars": 978
               }
             },
             {
@@ -504,7 +504,7 @@
                 "last_commit": "2026-08-10T21:29:25Z",
                 "owner": "Shopify",
                 "repo": "shopify-app-js",
-                "stars": 537
+                "stars": 538
               }
             },
             {
@@ -969,7 +969,7 @@
                 "archived": false,
                 "id": 966163160,
                 "language": "TypeScript",
-                "last_commit": "2026-08-10T04:55:40Z",
+                "last_commit": "2026-08-20T21:55:02Z",
                 "owner": "Shopify",
                 "repo": "shopify-app-template-react-router",
                 "stars": 193
@@ -1402,7 +1402,7 @@
             "last_commit": "2023-12-31T11:28:26Z",
             "owner": "vikrantnegi",
             "repo": "shopify-code-snippets",
-            "stars": 260
+            "stars": 261
           }
         },
         {
@@ -1452,10 +1452,10 @@
                 "archived": false,
                 "id": 505864478,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T13:41:46Z",
+                "last_commit": "2026-08-21T14:35:06Z",
                 "owner": "Shopify",
                 "repo": "cli",
-                "stars": 731
+                "stars": 732
               }
             },
             {
@@ -1557,7 +1557,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T15:08:18.592Z",
+    "last_updated": "2026-08-21T15:06:48.307Z",
     "original_repository": "julionc/awesome-shopify",
     "original_repository_id": 58393941,
     "original_repository_sha": "26e8eb3aec0e34fd9f03a22b51e1bc36e74fe9d2",
