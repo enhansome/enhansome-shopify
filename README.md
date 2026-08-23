@@ -53,7 +53,7 @@
 
 ## Themes & Design
 
-* [Shopify Dawn](https://github.com/Shopify/dawn) ⭐ 3,061 | 🐛 7 | 🌐 Liquid | 📅 2026-08-10 - Official Online Store 2.0 theme.
+* [Shopify Dawn](https://github.com/Shopify/dawn) ⭐ 3,061 | 🐛 25 | 🌐 Liquid | 📅 2026-08-10 - Official Online Store 2.0 theme.
 * [Shopify Horizon](https://github.com/Shopify/horizon) ⭐ 443 | 🐛 28 | 🌐 Liquid | 📅 2026-08-12 - Flagship of Shopify’s next-gen themes.
 * [City Ecommerce UI Kit](https://github.com/shopifypartners/City-Ecommerce-UI-Kit) ⭐ 32 | 🐛 0 | 📅 2017-06-16
 * [Sketch Shopify Data Populator](https://github.com/shopifypartners/sketch-shopify-data-populator) ⭐ 24 | 🐛 0 | 📅 2017-03-31
@@ -78,13 +78,13 @@
 
 ### Hydrogen (Headless)
 
-* [Hydrogen](https://hydrogen.shopify.dev) - Headless stack for custom storefronts. [Source code](https://github.com/Shopify/hydrogen) ⭐ 2,096 | 🐛 68 | 🌐 TypeScript | 📅 2026-08-21.
+* [Hydrogen](https://hydrogen.shopify.dev) - Headless stack for custom storefronts. [Source code](https://github.com/Shopify/hydrogen) ⭐ 2,097 | 🐛 70 | 🌐 TypeScript | 📅 2026-08-21.
 * [Fluid](https://github.com/frontvibe/fluid) ⭐ 290 | 🐛 17 | 🌐 TypeScript | 📅 2026-08-17 - Hydrogen + Sanity for structured content management.
 * [Hydrogen Demo Store](https://github.com/Shopify/hydrogen-demo-store) ⭐ 235 | 🐛 45 | 🌐 TypeScript | 📅 2026-07-01 - Official Hydrogen + Remix template, with full setup of components, queries and tooling for building a headless Shopify storefront. Deployed at hydrogen.shop. 🚀
 * [Pilot (Weaverse Hydrogen Theme)](https://github.com/Weaverse/pilot) ⭐ 191 | 🐛 10 | 🌐 TypeScript | 📅 2026-08-17 - Fully featured Shopify Hydrogen theme crafted for launching modern, high-performance headless storefronts. Includes TypeScript, Tailwind CSS, GraphQL code generation, React Router, Oxygen deployment, and customization via Weaverse Studio. 🚀
 * [montalvomiguelo/hydrogen-theme](https://github.com/montalvomiguelo/hydrogen-theme) ⭐ 181 | 🐛 0 | 🌐 Liquid | 📅 2026-08-16 - A port of Hydrogen's default template to Shopify OS 2.0.
 * [packdigital/pack-hydrogen-theme-blueprint](https://github.com/packdigital/pack-hydrogen-theme-blueprint) ⭐ 103 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-21 - A fully-featured Shopify Hydrogen starter theme packed with versatile components designed to seamlessly integrate with Pack and Shopify Hydrogen.
-* [AEOrank](https://github.com/vinpatel/aeorank/tree/main/packages/shopify) ⭐ 14 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-22 - Hydrogen plugin that generates AI-readable files (llms.txt, ai.txt, CLAUDE.md, schema.json) so ChatGPT and Perplexity can find and cite your products.
+* [AEOrank](https://github.com/vinpatel/aeorank/tree/main/packages/shopify) ⭐ 14 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-23 - Hydrogen plugin that generates AI-readable files (llms.txt, ai.txt, CLAUDE.md, schema.json) so ChatGPT and Perplexity can find and cite your products.
 
 ### Liquid Template
 
@@ -122,7 +122,7 @@ You can use official Shopify libraries or any of the third party libraries below
 ### Ruby
 
 * [A Rails Engine for building Shopify Apps](https://github.com/Shopify/shopify_app) ⭐ 1,924 | 🐛 57 | 🌐 Ruby | 📅 2026-06-25
-* [Shopify Ruby API](https://github.com/Shopify/shopify_api) ⭐ 1,102 | 🐛 33 | 🌐 Ruby | 📅 2026-08-04
+* [Shopify Ruby API](https://github.com/Shopify/shopify_api) ⭐ 1,103 | 🐛 33 | 🌐 Ruby | 📅 2026-08-04
 * [Shopify OAuth2 Strategy for OmniAuth](https://github.com/Shopify/omniauth-shopify-oauth2) ⭐ 92 | 🐛 19 | 🌐 Ruby | 📅 2026-03-27
 
 ### Python
@@ -140,7 +140,7 @@ You can use official Shopify libraries or any of the third party libraries below
 
 ### DotNet
 
-* [nozzlegear/ShopifySharp](https://github.com/nozzlegear/ShopifySharp) ⭐ 897 | 🐛 226 | 🌐 C# | 📅 2026-08-21 - A .NET library for Shopify.
+* [nozzlegear/ShopifySharp](https://github.com/nozzlegear/ShopifySharp) ⭐ 897 | 🐛 226 | 🌐 C# | 📅 2026-08-23 - A .NET library for Shopify.
 
 ### Elixir
 
@@ -247,8 +247,8 @@ You can use official Shopify libraries or any of the third party libraries below
 
 ### CLI Tools
 
-* [Theme Kit](https://github.com/Shopify/themekit) ⭐ 1,317 | 🐛 100 | 🌐 Go | 📅 2025-11-20 - Shopify theme development command line tool. ⚠️
-* [Shopify CLI](https://github.com/Shopify/cli) ⭐ 732 | 🐛 127 | 🌐 TypeScript | 📅 2026-08-22 - CLI to build apps, themes, and hydrogen storefronts for Shopify 🚀.
+* [Theme Kit](https://github.com/Shopify/themekit) ⭐ 1,317 | 🐛 113 | 🌐 Go | 📅 2025-11-20 - Shopify theme development command line tool. ⚠️
+* [Shopify CLI](https://github.com/Shopify/cli) ⭐ 732 | 🐛 143 | 🌐 TypeScript | 📅 2026-08-23 - CLI to build apps, themes, and hydrogen storefronts for Shopify 🚀.
 * [Theme Check](https://github.com/Shopify/theme-check) ⚠️ Archived - The Ultimate Shopify Theme Linter. ⚠️
 
 ### CI/CD & Deployment
@@ -310,4 +310,4 @@ Thanks to all [contributors](https://github.com/julionc/awesome-shopify/graphs/c
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._

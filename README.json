@@ -120,7 +120,7 @@
                 "last_commit": "2026-08-21T23:59:15Z",
                 "owner": "Shopify",
                 "repo": "hydrogen",
-                "stars": 2096
+                "stars": 2097
               }
             },
             {
@@ -207,7 +207,7 @@
                 "archived": false,
                 "id": 1182092885,
                 "language": "TypeScript",
-                "last_commit": "2026-08-22T14:40:21Z",
+                "last_commit": "2026-08-23T14:41:19Z",
                 "owner": "vinpatel",
                 "repo": "aeorank",
                 "stars": 14
@@ -385,7 +385,7 @@
                 "last_commit": "2026-08-04T18:33:24Z",
                 "owner": "Shopify",
                 "repo": "shopify-api-ruby",
-                "stars": 1102
+                "stars": 1103
               }
             },
             {
@@ -1452,7 +1452,7 @@
                 "archived": false,
                 "id": 505864478,
                 "language": "TypeScript",
-                "last_commit": "2026-08-22T00:24:00Z",
+                "last_commit": "2026-08-23T00:35:36Z",
                 "owner": "Shopify",
                 "repo": "cli",
                 "stars": 732
@@ -1557,7 +1557,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T14:54:11.302Z",
+    "last_updated": "2026-08-23T14:55:43.226Z",
     "original_repository": "julionc/awesome-shopify",
     "original_repository_id": 58393941,
     "original_repository_sha": "26e8eb3aec0e34fd9f03a22b51e1bc36e74fe9d2",
