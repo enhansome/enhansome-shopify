@@ -192,7 +192,7 @@
                 "archived": false,
                 "id": 760095032,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T22:02:14Z",
+                "last_commit": "2026-08-24T15:19:08Z",
                 "owner": "packdigital",
                 "repo": "pack-hydrogen-theme-blueprint",
                 "stars": 104
@@ -207,7 +207,7 @@
                 "archived": false,
                 "id": 1182092885,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T14:41:19Z",
+                "last_commit": "2026-08-24T14:47:59Z",
                 "owner": "vinpatel",
                 "repo": "aeorank",
                 "stars": 14
@@ -516,7 +516,7 @@
                 "archived": false,
                 "id": 518853694,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T07:45:58Z",
+                "last_commit": "2026-08-24T14:19:45Z",
                 "owner": "nestjs-shopify",
                 "repo": "nestjs-shopify",
                 "stars": 151
@@ -1639,7 +1639,7 @@
                 "last_commit": "2026-08-19T15:30:24Z",
                 "owner": "Shopify",
                 "repo": "Shopify-AI-Toolkit",
-                "stars": 511
+                "stars": 512
               }
             }
           ],
@@ -1733,7 +1733,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:18:28.099Z",
+    "last_updated": "2026-08-24T15:19:58.945Z",
     "original_repository": "julionc/awesome-shopify",
     "original_repository_id": 58393941,
     "original_repository_sha": "26e8eb3aec0e34fd9f03a22b51e1bc36e74fe9d2",

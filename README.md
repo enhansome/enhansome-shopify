@@ -83,8 +83,8 @@
 * [Hydrogen Demo Store](https://github.com/Shopify/hydrogen-demo-store) ⭐ 235 | 🐛 45 | 🌐 TypeScript | 📅 2026-07-01 - Official Hydrogen + Remix template, with full setup of components, queries and tooling for building a headless Shopify storefront. Deployed at hydrogen.shop. 🚀
 * [Pilot (Weaverse Hydrogen Theme)](https://github.com/Weaverse/pilot) ⭐ 191 | 🐛 10 | 🌐 TypeScript | 📅 2026-08-17 - Fully featured Shopify Hydrogen theme crafted for launching modern, high-performance headless storefronts. Includes TypeScript, Tailwind CSS, GraphQL code generation, React Router, Oxygen deployment, and customization via Weaverse Studio. 🚀
 * [montalvomiguelo/hydrogen-theme](https://github.com/montalvomiguelo/hydrogen-theme) ⭐ 181 | 🐛 0 | 🌐 Liquid | 📅 2026-08-16 - A port of Hydrogen's default template to Shopify OS 2.0.
-* [packdigital/pack-hydrogen-theme-blueprint](https://github.com/packdigital/pack-hydrogen-theme-blueprint) ⭐ 104 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-21 - A fully-featured Shopify Hydrogen starter theme packed with versatile components designed to seamlessly integrate with Pack and Shopify Hydrogen.
-* [AEOrank](https://github.com/vinpatel/aeorank/tree/main/packages/shopify) ⭐ 14 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-23 - Hydrogen plugin that generates AI-readable files (llms.txt, ai.txt, CLAUDE.md, schema.json) so ChatGPT and Perplexity can find and cite your products.
+* [packdigital/pack-hydrogen-theme-blueprint](https://github.com/packdigital/pack-hydrogen-theme-blueprint) ⭐ 104 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-24 - A fully-featured Shopify Hydrogen starter theme packed with versatile components designed to seamlessly integrate with Pack and Shopify Hydrogen.
+* [AEOrank](https://github.com/vinpatel/aeorank/tree/main/packages/shopify) ⭐ 14 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-24 - Hydrogen plugin that generates AI-readable files (llms.txt, ai.txt, CLAUDE.md, schema.json) so ChatGPT and Perplexity can find and cite your products.
 
 ### Liquid Template
 
@@ -136,7 +136,7 @@ You can use official Shopify libraries or any of the third party libraries below
 * [js-buy-sdk](https://github.com/Shopify/js-buy-sdk) ⭐ 1,017 | 🐛 27 | 🌐 JavaScript | 📅 2026-03-27 - Shopify JavaScript Buy SDK. (Check Cart API ⚠️)
 * [shopify-api-node](https://github.com/MONEI/Shopify-api-node) ⭐ 978 | 🐛 31 | 🌐 JavaScript | 📅 2025-04-11 - Node.js Shopify connector.
 * [Shopify API and app tools for JavaScript](https://github.com/Shopify/shopify-app-js) ⭐ 538 | 🐛 110 | 🌐 TypeScript | 📅 2026-08-21
-* [nestjs-shopify](https://github.com/nestjs-shopify/nestjs-shopify) ⭐ 151 | 🐛 22 | 🌐 TypeScript | 📅 2026-08-24 - Packages to develop Shopify application using NestJS.
+* [nestjs-shopify](https://github.com/nestjs-shopify/nestjs-shopify) ⭐ 151 | 🐛 20 | 🌐 TypeScript | 📅 2026-08-24 - Packages to develop Shopify application using NestJS.
 
 ### DotNet
 
@@ -263,7 +263,7 @@ You can use official Shopify libraries or any of the third party libraries below
 
 ### AI tools
 
-* [Agent plugins/extensions for CLIs and IDEs](https://github.com/shopify/shopify-ai-toolkit) ⭐ 511 | 🐛 16 | 🌐 JavaScript | 📅 2026-08-19
+* [Agent plugins/extensions for CLIs and IDEs](https://github.com/shopify/shopify-ai-toolkit) ⭐ 512 | 🐛 16 | 🌐 JavaScript | 📅 2026-08-19
 
 ### Services
 
