@@ -30,7 +30,7 @@
             "last_commit": "2026-08-12T12:21:50Z",
             "owner": "Shopify",
             "repo": "horizon",
-            "stars": 443
+            "stars": 445
           }
         },
         {
@@ -120,7 +120,7 @@
                 "last_commit": "2026-08-21T23:59:15Z",
                 "owner": "Shopify",
                 "repo": "hydrogen",
-                "stars": 2097
+                "stars": 2098
               }
             },
             {
@@ -195,7 +195,7 @@
                 "last_commit": "2026-08-21T22:02:14Z",
                 "owner": "packdigital",
                 "repo": "pack-hydrogen-theme-blueprint",
-                "stars": 103
+                "stars": 104
               }
             },
             {
@@ -244,7 +244,7 @@
                 "archived": false,
                 "id": 263382488,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T20:37:25Z",
+                "last_commit": "2026-08-24T09:12:52Z",
                 "owner": "Shopify",
                 "repo": "ui-extensions",
                 "stars": 343
@@ -309,7 +309,7 @@
                 "archived": false,
                 "id": 716182239,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T13:09:21Z",
+                "last_commit": "2026-08-24T13:58:22Z",
                 "owner": "Shopify",
                 "repo": "checkout-sheet-kit-react-native",
                 "stars": 79
@@ -324,7 +324,7 @@
                 "archived": false,
                 "id": 687512015,
                 "language": "Swift",
-                "last_commit": "2026-08-04T21:52:59Z",
+                "last_commit": "2026-08-24T10:37:14Z",
                 "owner": "Shopify",
                 "repo": "checkout-sheet-kit-swift",
                 "stars": 66
@@ -339,7 +339,7 @@
                 "archived": false,
                 "id": 704521719,
                 "language": "Kotlin",
-                "last_commit": "2026-08-20T07:43:26Z",
+                "last_commit": "2026-08-24T10:39:27Z",
                 "owner": "Shopify",
                 "repo": "checkout-sheet-kit-android",
                 "stars": 27
@@ -367,10 +367,10 @@
                 "archived": false,
                 "id": 61203,
                 "language": "Ruby",
-                "last_commit": "2026-06-25T18:17:09Z",
+                "last_commit": "2026-08-23T19:56:33Z",
                 "owner": "Shopify",
                 "repo": "shopify_app",
-                "stars": 1924
+                "stars": 1925
               }
             },
             {
@@ -422,7 +422,7 @@
                 "last_commit": "2026-04-27T20:03:11Z",
                 "owner": "Shopify",
                 "repo": "shopify_python_api",
-                "stars": 1434
+                "stars": 1433
               }
             },
             {
@@ -516,7 +516,7 @@
                 "archived": false,
                 "id": 518853694,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T16:38:48Z",
+                "last_commit": "2026-08-24T07:45:58Z",
                 "owner": "nestjs-shopify",
                 "repo": "nestjs-shopify",
                 "stars": 151
@@ -526,6 +526,28 @@
           "description": null,
           "node_type": "group",
           "title": "JavaScript"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "nozzlegear/ShopifySharp",
+              "description": "A .NET library for Shopify.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 39856566,
+                "language": "C#",
+                "last_commit": "2026-08-23T20:10:47Z",
+                "owner": "nozzlegear",
+                "repo": "ShopifySharp",
+                "stars": 897
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "DotNet"
         },
         {
           "children": [
@@ -874,6 +896,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "shopifyr",
+              "description": "Aims to provide an easy-to-use interface to the Shopify Admin API within R. ⏱",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 23026426,
+                "language": "R",
+                "last_commit": "2019-08-11T01:40:44Z",
+                "owner": "charliebone",
+                "repo": "shopifyr",
+                "stars": 23
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "R"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Shopify Function Rust",
               "description": null,
               "children": [],
@@ -969,10 +1013,10 @@
                 "archived": false,
                 "id": 966163160,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T21:55:02Z",
+                "last_commit": "2026-08-23T16:55:21Z",
                 "owner": "Shopify",
                 "repo": "shopify-app-template-react-router",
-                "stars": 193
+                "stars": 194
               }
             },
             {
@@ -984,7 +1028,7 @@
                 "archived": false,
                 "id": 732170321,
                 "language": "JavaScript",
-                "last_commit": "2026-08-20T07:19:16Z",
+                "last_commit": "2026-08-24T07:26:02Z",
                 "owner": "Shopify",
                 "repo": "example-app--payments-app-template--remix",
                 "stars": 27
@@ -999,7 +1043,7 @@
                 "archived": false,
                 "id": 733662377,
                 "language": "JavaScript",
-                "last_commit": "2026-08-20T07:18:19Z",
+                "last_commit": "2026-08-24T07:25:13Z",
                 "owner": "Shopify",
                 "repo": "example-app--credit-card-payments-app-template--remix",
                 "stars": 16
@@ -1261,6 +1305,50 @@
           "children": [
             {
               "node_type": "item",
+              "title": "shopify-app-php",
+              "description": "Example Shopify PHP app (Laravel).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 361855009,
+                "language": "PHP",
+                "last_commit": "2026-08-05T11:20:07Z",
+                "owner": "Shopify",
+                "repo": "shopify-app-template-php",
+                "stars": 337
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "PHP Examples"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "shopify_django_app",
+              "description": "Shopify Django App Example.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2297150,
+                "language": "Python",
+                "last_commit": "2025-05-13T16:37:08Z",
+                "owner": "Shopify",
+                "repo": "shopify_django_app",
+                "stars": 505
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Python Examples"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Shopify App Template (Ruby)",
               "description": "A Rails + React template for building Shopify apps with OAuth, GraphQL & REST APIs, webhooks, and embedded support. 🧰",
               "children": [],
@@ -1368,6 +1456,28 @@
           "description": null,
           "node_type": "group",
           "title": "Ruby Examples"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Elixir Shopify App (Phoenix)",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 180639641,
+                "language": "Elixir",
+                "last_commit": "2025-03-04T03:29:00Z",
+                "owner": "orbit-apps",
+                "repo": "elixir-shopify-app",
+                "stars": 20
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Elixir Examples"
         }
       ],
       "title": "Example Apps"
@@ -1440,7 +1550,7 @@
                 "last_commit": "2025-11-20T00:01:50Z",
                 "owner": "Shopify",
                 "repo": "themekit",
-                "stars": 1317
+                "stars": 1318
               }
             },
             {
@@ -1452,10 +1562,10 @@
                 "archived": false,
                 "id": 505864478,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T00:35:36Z",
+                "last_commit": "2026-08-24T10:09:47Z",
                 "owner": "Shopify",
                 "repo": "cli",
-                "stars": 732
+                "stars": 733
               }
             },
             {
@@ -1519,6 +1629,72 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Agent plugins/extensions for CLIs and IDEs",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1198690790,
+                "language": "JavaScript",
+                "last_commit": "2026-08-19T15:30:24Z",
+                "owner": "Shopify",
+                "repo": "Shopify-AI-Toolkit",
+                "stars": 511
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "AI tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ShopSavvy",
+              "description": "Shopify app for competitor price monitoring and real-time price comparison across thousands of retailers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1198064828,
+                "language": "TypeScript",
+                "last_commit": "2026-04-01T08:29:09Z",
+                "owner": "shopsavvy",
+                "repo": "shopify-shopsavvy",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Services"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Shopify App Detector",
+              "description": "Detect which apps and what theme a Shopify store is using. GitHub",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 141924132,
+                "language": "JavaScript",
+                "last_commit": "2024-02-01T16:31:50Z",
+                "owner": "feracommerce",
+                "repo": "shopify_app_detector",
+                "stars": 111
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Browser Extensions"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Shopify Product CSVs",
               "description": "Get your Shopify development stores started with great product data.",
               "children": [],
@@ -1557,7 +1733,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T14:55:43.226Z",
+    "last_updated": "2026-08-24T14:18:28.099Z",
     "original_repository": "julionc/awesome-shopify",
     "original_repository_id": 58393941,
     "original_repository_sha": "26e8eb3aec0e34fd9f03a22b51e1bc36e74fe9d2",
