@@ -117,10 +117,10 @@
                 "archived": false,
                 "id": 538665344,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T23:59:15Z",
+                "last_commit": "2026-08-24T19:45:54Z",
                 "owner": "Shopify",
                 "repo": "hydrogen",
-                "stars": 2098
+                "stars": 2099
               }
             },
             {
@@ -367,7 +367,7 @@
                 "archived": false,
                 "id": 61203,
                 "language": "Ruby",
-                "last_commit": "2026-08-23T19:56:33Z",
+                "last_commit": "2026-08-24T16:39:19Z",
                 "owner": "Shopify",
                 "repo": "shopify_app",
                 "stars": 1925
@@ -385,7 +385,7 @@
                 "last_commit": "2026-08-04T18:33:24Z",
                 "owner": "Shopify",
                 "repo": "shopify-api-ruby",
-                "stars": 1103
+                "stars": 1104
               }
             },
             {
@@ -422,7 +422,7 @@
                 "last_commit": "2026-04-27T20:03:11Z",
                 "owner": "Shopify",
                 "repo": "shopify_python_api",
-                "stars": 1433
+                "stars": 1434
               }
             },
             {
@@ -489,7 +489,7 @@
                 "last_commit": "2025-04-11T11:22:09Z",
                 "owner": "MONEI",
                 "repo": "Shopify-api-node",
-                "stars": 978
+                "stars": 979
               }
             },
             {
@@ -516,7 +516,7 @@
                 "archived": false,
                 "id": 518853694,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T14:19:45Z",
+                "last_commit": "2026-08-24T18:48:09Z",
                 "owner": "nestjs-shopify",
                 "repo": "nestjs-shopify",
                 "stars": 151
@@ -538,7 +538,7 @@
                 "archived": false,
                 "id": 39856566,
                 "language": "C#",
-                "last_commit": "2026-08-23T20:10:47Z",
+                "last_commit": "2026-08-24T21:55:48Z",
                 "owner": "nozzlegear",
                 "repo": "ShopifySharp",
                 "stars": 897
@@ -716,7 +716,7 @@
                 "archived": false,
                 "id": 572474590,
                 "language": "PHP",
-                "last_commit": "2026-07-14T10:01:32Z",
+                "last_commit": "2026-08-24T16:06:53Z",
                 "owner": "Kyon147",
                 "repo": "laravel-shopify",
                 "stars": 492
@@ -1113,7 +1113,7 @@
                 "last_commit": "2023-11-20T18:09:26Z",
                 "owner": "Shopify",
                 "repo": "storefront-api-examples",
-                "stars": 1148
+                "stars": 1149
               }
             },
             {
@@ -1315,7 +1315,7 @@
                 "last_commit": "2026-08-05T11:20:07Z",
                 "owner": "Shopify",
                 "repo": "shopify-app-template-php",
-                "stars": 337
+                "stars": 338
               }
             }
           ],
@@ -1562,7 +1562,7 @@
                 "archived": false,
                 "id": 505864478,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T10:09:47Z",
+                "last_commit": "2026-08-25T00:32:07Z",
                 "owner": "Shopify",
                 "repo": "cli",
                 "stars": 733
@@ -1733,7 +1733,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T15:19:58.945Z",
+    "last_updated": "2026-08-25T06:06:11.216Z",
     "original_repository": "julionc/awesome-shopify",
     "original_repository_id": 58393941,
     "original_repository_sha": "26e8eb3aec0e34fd9f03a22b51e1bc36e74fe9d2",
