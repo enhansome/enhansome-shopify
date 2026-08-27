@@ -15,7 +15,7 @@
             "last_commit": "2026-08-10T20:55:54Z",
             "owner": "Shopify",
             "repo": "dawn",
-            "stars": 3060
+            "stars": 3061
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-12T12:21:50Z",
             "owner": "Shopify",
             "repo": "horizon",
-            "stars": 446
+            "stars": 445
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2017-06-16T17:05:58Z",
             "owner": "shopifypartners",
             "repo": "City-Ecommerce-UI-Kit",
-            "stars": 32
+            "stars": 33
           }
         },
         {
@@ -117,10 +117,10 @@
                 "archived": false,
                 "id": 538665344,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T00:34:43Z",
+                "last_commit": "2026-08-26T23:44:02Z",
                 "owner": "Shopify",
                 "repo": "hydrogen",
-                "stars": 2099
+                "stars": 2102
               }
             },
             {
@@ -132,7 +132,7 @@
                 "archived": false,
                 "id": 748349268,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T10:26:17Z",
+                "last_commit": "2026-08-26T20:17:13Z",
                 "owner": "frontvibe",
                 "repo": "fluid",
                 "stars": 290
@@ -192,7 +192,7 @@
                 "archived": false,
                 "id": 760095032,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T14:51:18Z",
+                "last_commit": "2026-08-26T17:02:23Z",
                 "owner": "packdigital",
                 "repo": "pack-hydrogen-theme-blueprint",
                 "stars": 104
@@ -232,7 +232,7 @@
                 "last_commit": "2026-08-17T01:08:04Z",
                 "owner": "barrel",
                 "repo": "shopify-vite",
-                "stars": 458
+                "stars": 459
               }
             },
             {
@@ -244,10 +244,10 @@
                 "archived": false,
                 "id": 263382488,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T13:45:22Z",
+                "last_commit": "2026-08-26T20:33:03Z",
                 "owner": "Shopify",
                 "repo": "ui-extensions",
-                "stars": 344
+                "stars": 346
               }
             }
           ],
@@ -309,7 +309,7 @@
                 "archived": false,
                 "id": 716182239,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T10:15:36Z",
+                "last_commit": "2026-08-26T17:27:24Z",
                 "owner": "Shopify",
                 "repo": "checkout-sheet-kit-react-native",
                 "stars": 80
@@ -327,7 +327,7 @@
                 "last_commit": "2026-08-24T10:37:14Z",
                 "owner": "Shopify",
                 "repo": "checkout-sheet-kit-swift",
-                "stars": 67
+                "stars": 66
               }
             },
             {
@@ -339,7 +339,7 @@
                 "archived": false,
                 "id": 704521719,
                 "language": "Kotlin",
-                "last_commit": "2026-08-25T10:06:55Z",
+                "last_commit": "2026-08-27T07:44:25Z",
                 "owner": "Shopify",
                 "repo": "checkout-sheet-kit-android",
                 "stars": 27
@@ -370,7 +370,7 @@
                 "last_commit": "2026-08-24T16:39:19Z",
                 "owner": "Shopify",
                 "repo": "shopify_app",
-                "stars": 1926
+                "stars": 1925
               }
             },
             {
@@ -501,7 +501,7 @@
                 "archived": false,
                 "id": 526668551,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T19:24:06Z",
+                "last_commit": "2026-08-27T01:31:08Z",
                 "owner": "Shopify",
                 "repo": "shopify-app-js",
                 "stars": 537
@@ -516,7 +516,7 @@
                 "archived": false,
                 "id": 518853694,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T19:52:45Z",
+                "last_commit": "2026-08-27T10:42:22Z",
                 "owner": "nestjs-shopify",
                 "repo": "nestjs-shopify",
                 "stars": 151
@@ -1016,7 +1016,7 @@
                 "last_commit": "2026-08-23T16:55:21Z",
                 "owner": "Shopify",
                 "repo": "shopify-app-template-react-router",
-                "stars": 194
+                "stars": 195
               }
             },
             {
@@ -1028,7 +1028,7 @@
                 "archived": false,
                 "id": 732170321,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T07:26:02Z",
+                "last_commit": "2026-08-27T10:22:32Z",
                 "owner": "Shopify",
                 "repo": "example-app--payments-app-template--remix",
                 "stars": 27
@@ -1043,7 +1043,7 @@
                 "archived": false,
                 "id": 733662377,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T07:25:13Z",
+                "last_commit": "2026-08-27T10:20:33Z",
                 "owner": "Shopify",
                 "repo": "example-app--credit-card-payments-app-template--remix",
                 "stars": 16
@@ -1088,7 +1088,7 @@
                 "archived": false,
                 "id": 1194239549,
                 "language": "JavaScript",
-                "last_commit": "2026-08-01T12:51:18Z",
+                "last_commit": "2026-08-27T10:38:20Z",
                 "owner": "mksd0398",
                 "repo": "create-shopify-firebase-app",
                 "stars": 1
@@ -1128,7 +1128,7 @@
                 "last_commit": "2026-08-05T11:19:59Z",
                 "owner": "Shopify",
                 "repo": "shopify-app-template-node",
-                "stars": 1012
+                "stars": 1013
               }
             },
             {
@@ -1188,7 +1188,7 @@
                 "last_commit": "2026-02-13T22:36:39Z",
                 "owner": "Shopify",
                 "repo": "product-reviews-sample-app",
-                "stars": 378
+                "stars": 379
               }
             },
             {
@@ -1562,10 +1562,10 @@
                 "archived": false,
                 "id": 505864478,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T14:34:02Z",
+                "last_commit": "2026-08-27T11:55:37Z",
                 "owner": "Shopify",
                 "repo": "cli",
-                "stars": 734
+                "stars": 735
               }
             },
             {
@@ -1639,7 +1639,7 @@
                 "last_commit": "2026-08-19T15:30:24Z",
                 "owner": "Shopify",
                 "repo": "Shopify-AI-Toolkit",
-                "stars": 516
+                "stars": 519
               }
             }
           ],
@@ -1733,9 +1733,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T16:03:59.025Z",
-    "original_repository": "julionc/awesome-shopify",
-    "original_repository_id": 58393941,
+    "last_updated": "2026-08-27T12:02:57.486Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 58393941,
+      "language": null,
+      "last_commit": "2026-08-13T00:34:27Z",
+      "owner": "julionc",
+      "repo": "awesome-shopify",
+      "stars": 1270
+    },
     "original_repository_sha": "26e8eb3aec0e34fd9f03a22b51e1bc36e74fe9d2",
     "enhanced_repository": "enhansome/enhansome-shopify",
     "enhanced_repository_description": null,
