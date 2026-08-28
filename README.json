@@ -16,7 +16,8 @@
             "owner": "Shopify",
             "repo": "dawn",
             "stars": 3061
-          }
+          },
+          "first_seen": "2026-08-28T23:39:38.037Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2026-08-12T12:21:50Z",
             "owner": "Shopify",
             "repo": "horizon",
-            "stars": 445
-          }
+            "stars": 447
+          },
+          "first_seen": "2026-08-28T23:39:38.037Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "shopifypartners",
             "repo": "City-Ecommerce-UI-Kit",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T23:39:38.037Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "shopifypartners",
             "repo": "sketch-shopify-data-populator",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T23:39:38.037Z"
         }
       ],
       "title": "Themes & Design"
@@ -83,8 +87,9 @@
                 "last_commit": "2026-08-11T07:11:56Z",
                 "owner": "Shopify",
                 "repo": "polaris-react-archive",
-                "stars": 6174
-              }
+                "stars": 6173
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             },
             {
               "node_type": "item",
@@ -99,7 +104,8 @@
                 "owner": "ownego",
                 "repo": "polaris-vue",
                 "stars": 182
-              }
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             }
           ],
           "description": null,
@@ -117,11 +123,12 @@
                 "archived": false,
                 "id": 538665344,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T21:17:04Z",
+                "last_commit": "2026-08-28T22:43:01Z",
                 "owner": "Shopify",
                 "repo": "hydrogen",
                 "stars": 2104
-              }
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             },
             {
               "node_type": "item",
@@ -136,7 +143,8 @@
                 "owner": "frontvibe",
                 "repo": "fluid",
                 "stars": 290
-              }
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             },
             {
               "node_type": "item",
@@ -151,7 +159,8 @@
                 "owner": "Shopify",
                 "repo": "hydrogen-demo-store",
                 "stars": 235
-              }
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             },
             {
               "node_type": "item",
@@ -166,7 +175,8 @@
                 "owner": "Weaverse",
                 "repo": "pilot",
                 "stars": 192
-              }
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             },
             {
               "node_type": "item",
@@ -181,7 +191,8 @@
                 "owner": "montalvomiguelo",
                 "repo": "hydrogen-theme",
                 "stars": 181
-              }
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             },
             {
               "node_type": "item",
@@ -196,7 +207,8 @@
                 "owner": "packdigital",
                 "repo": "pack-hydrogen-theme-blueprint",
                 "stars": 104
-              }
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             },
             {
               "node_type": "item",
@@ -207,11 +219,12 @@
                 "archived": false,
                 "id": 1182092885,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T18:15:14Z",
+                "last_commit": "2026-08-28T18:41:28Z",
                 "owner": "vinpatel",
                 "repo": "aeorank",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             }
           ],
           "description": null,
@@ -233,7 +246,8 @@
                 "owner": "barrel",
                 "repo": "shopify-vite",
                 "stars": 459
-              }
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             },
             {
               "node_type": "item",
@@ -244,11 +258,12 @@
                 "archived": false,
                 "id": 263382488,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T20:43:47Z",
+                "last_commit": "2026-08-28T20:58:29Z",
                 "owner": "Shopify",
                 "repo": "ui-extensions",
                 "stars": 346
-              }
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             }
           ],
           "description": null,
@@ -276,7 +291,8 @@
                 "owner": "Shopify",
                 "repo": "mobile-buy-sdk-ios",
                 "stars": 487
-              }
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             },
             {
               "node_type": "item",
@@ -291,7 +307,8 @@
                 "owner": "Shopify",
                 "repo": "mobile-buy-sdk-android",
                 "stars": 237
-              }
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             }
           ],
           "description": "You can use the iOS and Android Buy SDK to integrate Shopify checkout into your mobile applications. This lets you sell physical products directly through your app and track sales in your Shopify Admin. Learn more ›",
@@ -313,7 +330,8 @@
                 "owner": "Shopify",
                 "repo": "checkout-sheet-kit-react-native",
                 "stars": 80
-              }
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             },
             {
               "node_type": "item",
@@ -328,7 +346,8 @@
                 "owner": "Shopify",
                 "repo": "checkout-sheet-kit-swift",
                 "stars": 66
-              }
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             },
             {
               "node_type": "item",
@@ -343,7 +362,8 @@
                 "owner": "Shopify",
                 "repo": "checkout-sheet-kit-android",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             }
           ],
           "description": "Native SDKs for embedding Shopify’s one-page checkout UI directly into mobile apps — supporting styling, lifecycle events, and full checkout integration.",
@@ -371,7 +391,8 @@
                 "owner": "Shopify",
                 "repo": "shopify_app",
                 "stars": 1925
-              }
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             },
             {
               "node_type": "item",
@@ -386,7 +407,8 @@
                 "owner": "Shopify",
                 "repo": "shopify-api-ruby",
                 "stars": 1105
-              }
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             },
             {
               "node_type": "item",
@@ -401,7 +423,8 @@
                 "owner": "Shopify",
                 "repo": "omniauth-shopify-oauth2",
                 "stars": 92
-              }
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             }
           ],
           "description": null,
@@ -423,7 +446,8 @@
                 "owner": "Shopify",
                 "repo": "shopify_python_api",
                 "stars": 1434
-              }
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             },
             {
               "node_type": "item",
@@ -438,7 +462,8 @@
                 "owner": "stlk",
                 "repo": "django-shopify-auth",
                 "stars": 149
-              }
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             },
             {
               "node_type": "item",
@@ -453,7 +478,8 @@
                 "owner": "stlk",
                 "repo": "django-shopify-webhook",
                 "stars": 47
-              }
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             }
           ],
           "description": null,
@@ -475,7 +501,8 @@
                 "owner": "Shopify",
                 "repo": "js-buy-sdk",
                 "stars": 1018
-              }
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             },
             {
               "node_type": "item",
@@ -490,7 +517,8 @@
                 "owner": "MONEI",
                 "repo": "Shopify-api-node",
                 "stars": 979
-              }
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             },
             {
               "node_type": "item",
@@ -501,11 +529,12 @@
                 "archived": false,
                 "id": 526668551,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T18:42:09Z",
+                "last_commit": "2026-08-28T13:50:08Z",
                 "owner": "Shopify",
                 "repo": "shopify-app-js",
                 "stars": 537
-              }
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             },
             {
               "node_type": "item",
@@ -520,7 +549,8 @@
                 "owner": "nestjs-shopify",
                 "repo": "nestjs-shopify",
                 "stars": 151
-              }
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             }
           ],
           "description": null,
@@ -541,8 +571,9 @@
                 "last_commit": "2026-08-24T21:55:48Z",
                 "owner": "nozzlegear",
                 "repo": "ShopifySharp",
-                "stars": 897
-              }
+                "stars": 898
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             }
           ],
           "description": null,
@@ -564,7 +595,8 @@
                 "owner": "orbit-apps",
                 "repo": "elixir-shopifyapi",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             },
             {
               "node_type": "item",
@@ -579,7 +611,8 @@
                 "owner": "sticksnleaves",
                 "repo": "exshopify",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             }
           ],
           "description": null,
@@ -601,7 +634,8 @@
                 "owner": "ChannelApe",
                 "repo": "shopify-sdk",
                 "stars": 173
-              }
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             },
             {
               "node_type": "item",
@@ -616,7 +650,8 @@
                 "owner": "SevenSpikes",
                 "repo": "shopify-api-java-wrapper",
                 "stars": 38
-              }
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             }
           ],
           "description": null,
@@ -638,7 +673,8 @@
                 "owner": "bold-commerce",
                 "repo": "go-shopify",
                 "stars": 394
-              }
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             },
             {
               "node_type": "item",
@@ -653,7 +689,8 @@
                 "owner": "oussama4",
                 "repo": "gopify",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             },
             {
               "node_type": "item",
@@ -668,7 +705,8 @@
                 "owner": "darrenpeters",
                 "repo": "shoauth",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             },
             {
               "node_type": "item",
@@ -683,7 +721,8 @@
                 "owner": "kiwih",
                 "repo": "go-shopify",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             }
           ],
           "description": null,
@@ -705,7 +744,8 @@
                 "owner": "phpclassic",
                 "repo": "php-shopify",
                 "stars": 603
-              }
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             },
             {
               "node_type": "item",
@@ -720,7 +760,8 @@
                 "owner": "Kyon147",
                 "repo": "laravel-shopify",
                 "stars": 492
-              }
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             },
             {
               "node_type": "item",
@@ -735,7 +776,8 @@
                 "owner": "Shopify",
                 "repo": "shopify-api-php",
                 "stars": 472
-              }
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             },
             {
               "node_type": "item",
@@ -750,7 +792,8 @@
                 "owner": "gnikyt",
                 "repo": "Basic-Shopify-API",
                 "stars": 249
-              }
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             },
             {
               "node_type": "item",
@@ -765,7 +808,8 @@
                 "owner": "slince",
                 "repo": "shopify-api-php",
                 "stars": 132
-              }
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             },
             {
               "node_type": "item",
@@ -780,7 +824,8 @@
                 "owner": "ShopifyExtras",
                 "repo": "PHP-Shopify-API-Wrapper",
                 "stars": 119
-              }
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             },
             {
               "node_type": "item",
@@ -795,7 +840,8 @@
                 "owner": "donutdan4114",
                 "repo": "shopify",
                 "stars": 85
-              }
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             },
             {
               "node_type": "item",
@@ -809,8 +855,9 @@
                 "last_commit": "2023-08-29T11:30:56Z",
                 "owner": "oseintow",
                 "repo": "laravel-shopify",
-                "stars": 71
-              }
+                "stars": 72
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             },
             {
               "node_type": "item",
@@ -825,7 +872,8 @@
                 "owner": "zf-fr",
                 "repo": "zfr-shopify",
                 "stars": 36
-              }
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             },
             {
               "node_type": "item",
@@ -840,7 +888,8 @@
                 "owner": "bold-commerce",
                 "repo": "bold-shopify-toolkit",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             },
             {
               "node_type": "item",
@@ -855,7 +904,8 @@
                 "owner": "pizdata",
                 "repo": "oauth2-shopify-php",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             },
             {
               "node_type": "item",
@@ -870,7 +920,8 @@
                 "owner": "multidimension-al",
                 "repo": "oauth2-shopify",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             },
             {
               "node_type": "item",
@@ -885,7 +936,8 @@
                 "owner": "tothjmt",
                 "repo": "Laravel-Shopify",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             }
           ],
           "description": null,
@@ -907,7 +959,8 @@
                 "owner": "charliebone",
                 "repo": "shopifyr",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             }
           ],
           "description": null,
@@ -929,7 +982,8 @@
                 "owner": "Shopify",
                 "repo": "shopify-function-rust",
                 "stars": 47
-              }
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             },
             {
               "node_type": "item",
@@ -944,7 +998,8 @@
                 "owner": "Ventmere",
                 "repo": "shopify",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             },
             {
               "node_type": "item",
@@ -959,7 +1014,8 @@
                 "owner": "0xtlt",
                 "repo": "shopify_api",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             },
             {
               "node_type": "item",
@@ -974,7 +1030,8 @@
                 "owner": "saschabratton",
                 "repo": "shopify-api-rust",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             },
             {
               "node_type": "item",
@@ -989,7 +1046,8 @@
                 "owner": "sinha-sahil",
                 "repo": "shopify-rust-client",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             }
           ],
           "description": null,
@@ -1017,7 +1075,8 @@
                 "owner": "Shopify",
                 "repo": "shopify-app-template-react-router",
                 "stars": 195
-              }
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             },
             {
               "node_type": "item",
@@ -1032,7 +1091,8 @@
                 "owner": "Shopify",
                 "repo": "example-app--payments-app-template--remix",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             },
             {
               "node_type": "item",
@@ -1047,7 +1107,8 @@
                 "owner": "Shopify",
                 "repo": "example-app--credit-card-payments-app-template--remix",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             },
             {
               "node_type": "item",
@@ -1062,7 +1123,8 @@
                 "owner": "Shopify",
                 "repo": "example-app--optional-scopes--remix",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             },
             {
               "node_type": "item",
@@ -1077,7 +1139,8 @@
                 "owner": "Shopify",
                 "repo": "example-checkout--address-autocomplete--preact",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             },
             {
               "node_type": "item",
@@ -1092,7 +1155,8 @@
                 "owner": "mksd0398",
                 "repo": "create-shopify-firebase-app",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             }
           ],
           "description": null,
@@ -1114,7 +1178,8 @@
                 "owner": "Shopify",
                 "repo": "storefront-api-examples",
                 "stars": 1149
-              }
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             },
             {
               "node_type": "item",
@@ -1129,7 +1194,8 @@
                 "owner": "Shopify",
                 "repo": "shopify-app-template-node",
                 "stars": 1013
-              }
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             },
             {
               "node_type": "item",
@@ -1144,7 +1210,8 @@
                 "owner": "VienDinhCom",
                 "repo": "next-shopify-storefront",
                 "stars": 867
-              }
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             },
             {
               "node_type": "item",
@@ -1159,7 +1226,8 @@
                 "owner": "Shopify",
                 "repo": "shopify-app-template-remix",
                 "stars": 555
-              }
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             },
             {
               "node_type": "item",
@@ -1174,7 +1242,8 @@
                 "owner": "kinngh",
                 "repo": "shopify-nextjs-prisma-app",
                 "stars": 510
-              }
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             },
             {
               "node_type": "item",
@@ -1189,7 +1258,8 @@
                 "owner": "Shopify",
                 "repo": "product-reviews-sample-app",
                 "stars": 379
-              }
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             },
             {
               "node_type": "item",
@@ -1203,8 +1273,9 @@
                 "last_commit": "2026-08-15T17:39:15Z",
                 "owner": "kinngh",
                 "repo": "shopify-node-express-mongodb-app",
-                "stars": 343
-              }
+                "stars": 342
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             },
             {
               "node_type": "item",
@@ -1219,7 +1290,8 @@
                 "owner": "vuestorefront",
                 "repo": "shopify",
                 "stars": 161
-              }
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             },
             {
               "node_type": "item",
@@ -1234,7 +1306,8 @@
                 "owner": "ctrlaltdylan",
                 "repo": "shopify-session-tokens-nextjs",
                 "stars": 106
-              }
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             },
             {
               "node_type": "item",
@@ -1249,7 +1322,8 @@
                 "owner": "Shopify",
                 "repo": "discount-app-components",
                 "stars": 87
-              }
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             },
             {
               "node_type": "item",
@@ -1264,7 +1338,8 @@
                 "owner": "Mini-Sylar",
                 "repo": "shopify-app-vue-template",
                 "stars": 86
-              }
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             },
             {
               "node_type": "item",
@@ -1279,7 +1354,8 @@
                 "owner": "JsssCode",
                 "repo": "SmallAwesomeShop",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             },
             {
               "node_type": "item",
@@ -1294,7 +1370,8 @@
                 "owner": "yoMerce",
                 "repo": "shopify-app-starter",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             }
           ],
           "description": null,
@@ -1316,7 +1393,8 @@
                 "owner": "Shopify",
                 "repo": "shopify-app-template-php",
                 "stars": 338
-              }
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             }
           ],
           "description": null,
@@ -1338,7 +1416,8 @@
                 "owner": "Shopify",
                 "repo": "shopify_django_app",
                 "stars": 505
-              }
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             }
           ],
           "description": null,
@@ -1360,7 +1439,8 @@
                 "owner": "Shopify",
                 "repo": "shopify-app-template-ruby",
                 "stars": 154
-              }
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             },
             {
               "node_type": "item",
@@ -1375,7 +1455,8 @@
                 "owner": "Shopify",
                 "repo": "shopify-fulfillment-integration",
                 "stars": 80
-              }
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             },
             {
               "node_type": "item",
@@ -1390,7 +1471,8 @@
                 "owner": "Shopify",
                 "repo": "hosted-payment-sim",
                 "stars": 71
-              }
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             },
             {
               "node_type": "item",
@@ -1405,7 +1487,8 @@
                 "owner": "forsbergplustwo",
                 "repo": "partner-metrics",
                 "stars": 64
-              }
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             },
             {
               "node_type": "item",
@@ -1420,7 +1503,8 @@
                 "owner": "ASoftCo",
                 "repo": "shopify-app-starter-kit",
                 "stars": 42
-              }
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             },
             {
               "node_type": "item",
@@ -1435,7 +1519,8 @@
                 "owner": "kevinhughes27",
                 "repo": "shopify-tax-receipts",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             },
             {
               "node_type": "item",
@@ -1450,7 +1535,8 @@
                 "owner": "kevinhughes27",
                 "repo": "shopify-surge-pricing",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             }
           ],
           "description": null,
@@ -1472,7 +1558,8 @@
                 "owner": "orbit-apps",
                 "repo": "elixir-shopify-app",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             }
           ],
           "description": null,
@@ -1498,7 +1585,8 @@
             "owner": "freakdesign",
             "repo": "Shopify-code-snippets",
             "stars": 599
-          }
+          },
+          "first_seen": "2026-08-28T23:39:38.037Z"
         },
         {
           "node_type": "item",
@@ -1513,7 +1601,8 @@
             "owner": "vikrantnegi",
             "repo": "shopify-code-snippets",
             "stars": 261
-          }
+          },
+          "first_seen": "2026-08-28T23:39:38.037Z"
         },
         {
           "node_type": "item",
@@ -1528,7 +1617,8 @@
             "owner": "gocomet",
             "repo": "snippets",
             "stars": 127
-          }
+          },
+          "first_seen": "2026-08-28T23:39:38.037Z"
         }
       ],
       "title": "Code Snippets"
@@ -1551,7 +1641,8 @@
                 "owner": "Shopify",
                 "repo": "themekit",
                 "stars": 1318
-              }
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             },
             {
               "node_type": "item",
@@ -1562,11 +1653,12 @@
                 "archived": false,
                 "id": 505864478,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T21:40:56Z",
+                "last_commit": "2026-08-28T22:44:41Z",
                 "owner": "Shopify",
                 "repo": "cli",
-                "stars": 735
-              }
+                "stars": 734
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             },
             {
               "node_type": "item",
@@ -1581,7 +1673,8 @@
                 "owner": "Shopify",
                 "repo": "theme-check",
                 "stars": 358
-              }
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             }
           ],
           "description": null,
@@ -1603,7 +1696,8 @@
                 "owner": "tpope",
                 "repo": "vim-liquid",
                 "stars": 132
-              }
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             },
             {
               "node_type": "item",
@@ -1618,7 +1712,8 @@
                 "owner": "TheBeyondGroup",
                 "repo": "zed-shopify-liquid",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             }
           ],
           "description": null,
@@ -1636,11 +1731,12 @@
                 "archived": false,
                 "id": 1198690790,
                 "language": "JavaScript",
-                "last_commit": "2026-08-27T14:46:28Z",
+                "last_commit": "2026-08-28T15:10:49Z",
                 "owner": "Shopify",
                 "repo": "Shopify-AI-Toolkit",
-                "stars": 520
-              }
+                "stars": 522
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             }
           ],
           "description": null,
@@ -1662,7 +1758,8 @@
                 "owner": "shopsavvy",
                 "repo": "shopify-shopsavvy",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             }
           ],
           "description": null,
@@ -1684,7 +1781,8 @@
                 "owner": "feracommerce",
                 "repo": "shopify_app_detector",
                 "stars": 111
-              }
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             }
           ],
           "description": null,
@@ -1705,8 +1803,9 @@
                 "last_commit": "2023-03-30T14:48:49Z",
                 "owner": "shopifypartners",
                 "repo": "product-csvs",
-                "stars": 405
-              }
+                "stars": 406
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             },
             {
               "node_type": "item",
@@ -1721,7 +1820,8 @@
                 "owner": "shopifypartners",
                 "repo": "shopify-product-csvs-and-images",
                 "stars": 136
-              }
+              },
+              "first_seen": "2026-08-28T23:39:38.037Z"
             }
           ],
           "description": null,
@@ -1733,7 +1833,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T23:56:56.862Z",
+    "last_updated": "2026-08-28T23:39:38.037Z",
     "original_repository_info": {
       "archived": false,
       "id": 58393941,
@@ -1741,7 +1841,7 @@
       "last_commit": "2026-08-13T00:34:27Z",
       "owner": "julionc",
       "repo": "awesome-shopify",
-      "stars": 1271
+      "stars": 1272
     },
     "original_repository_sha": "26e8eb3aec0e34fd9f03a22b51e1bc36e74fe9d2",
     "enhanced_repository": "enhansome/enhansome-shopify",
