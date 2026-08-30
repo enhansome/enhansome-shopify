@@ -113,7 +113,7 @@
                 "open_issues": 73,
                 "owner": "Shopify",
                 "repo": "polaris-react-archive",
-                "stars": 6173,
+                "stars": 6172,
                 "topics": [
                   "component-library",
                   "design-system",
@@ -183,7 +183,7 @@
                 "open_issues": 70,
                 "owner": "Shopify",
                 "repo": "hydrogen",
-                "stars": 2105,
+                "stars": 2108,
                 "topics": [
                   "hydrogen",
                   "react",
@@ -354,7 +354,7 @@
                 "id": 1182092885,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-29T14:37:05Z",
+                "last_commit": "2026-08-30T14:37:04Z",
                 "open_issues": 7,
                 "owner": "vinpatel",
                 "repo": "aeorank",
@@ -608,7 +608,7 @@
                 "open_issues": 58,
                 "owner": "Shopify",
                 "repo": "shopify_app",
-                "stars": 1926,
+                "stars": 1927,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:38.037Z"
@@ -854,7 +854,7 @@
                 "id": 39856566,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-08-29T06:01:39Z",
+                "last_commit": "2026-08-29T22:33:04Z",
                 "open_issues": 226,
                 "owner": "nozzlegear",
                 "repo": "ShopifySharp",
@@ -2462,11 +2462,11 @@
                 "id": 505864478,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-29T05:46:15Z",
-                "open_issues": 155,
+                "last_commit": "2026-08-30T00:37:28Z",
+                "open_issues": 151,
                 "owner": "Shopify",
                 "repo": "cli",
-                "stars": 735,
+                "stars": 736,
                 "topics": [
                   "cli",
                   "oclif",
@@ -2707,7 +2707,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T17:52:20.625Z",
+    "last_updated": "2026-08-30T18:10:44.044Z",
     "original_repository_info": {
       "archived": false,
       "description": "📌✨A curated list of awesome Shopify resources, libraries and open source projects.",
