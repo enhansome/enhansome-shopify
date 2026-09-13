@@ -183,7 +183,7 @@
                 "open_issues": 81,
                 "owner": "Shopify",
                 "repo": "hydrogen",
-                "stars": 2124,
+                "stars": 2126,
                 "topics": [
                   "hydrogen",
                   "react",
@@ -354,7 +354,7 @@
                 "id": 1182092885,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-12T14:37:34Z",
+                "last_commit": "2026-09-13T14:36:44Z",
                 "open_issues": 7,
                 "owner": "vinpatel",
                 "repo": "aeorank",
@@ -886,7 +886,7 @@
                 "open_issues": 224,
                 "owner": "nozzlegear",
                 "repo": "ShopifySharp",
-                "stars": 898,
+                "stars": 897,
                 "topics": [
                   "csharp",
                   "dotnet",
@@ -2036,7 +2036,7 @@
                 "open_issues": 2,
                 "owner": "Mini-Sylar",
                 "repo": "shopify-app-vue-template",
-                "stars": 86,
+                "stars": 85,
                 "topics": [
                   "app",
                   "docker",
@@ -2491,7 +2491,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-11T15:54:35Z",
-                "open_issues": 158,
+                "open_issues": 157,
                 "owner": "Shopify",
                 "repo": "cli",
                 "stars": 743,
@@ -2735,7 +2735,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T17:25:22.818Z",
+    "last_updated": "2026-09-13T17:36:50.576Z",
     "original_repository_info": {
       "archived": false,
       "description": "📌✨A curated list of awesome Shopify resources, libraries and open source projects.",
@@ -2743,8 +2743,8 @@
       "id": 58393941,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-09-10T17:39:44Z",
-      "open_issues": 5,
+      "last_commit": "2026-09-13T04:57:16Z",
+      "open_issues": 7,
       "owner": "julionc",
       "repo": "awesome-shopify",
       "stars": 1274,
