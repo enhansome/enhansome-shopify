@@ -53,8 +53,8 @@
 
 ## Themes & Design
 
-* [Shopify Dawn](https://github.com/Shopify/dawn) ⭐ 3,081 | 🐛 28 | 🌐 Liquid | 📅 2026-08-10 - Official Online Store 2.0 theme.
-* [Shopify Horizon](https://github.com/Shopify/horizon) ⭐ 458 | 🐛 30 | 🌐 Liquid | 📅 2026-09-18 - Flagship of Shopify’s next-gen themes.
+* [Shopify Dawn](https://github.com/Shopify/dawn) ⭐ 3,082 | 🐛 27 | 🌐 Liquid | 📅 2026-08-10 - Official Online Store 2.0 theme.
+* [Shopify Horizon](https://github.com/Shopify/horizon) ⭐ 459 | 🐛 30 | 🌐 Liquid | 📅 2026-09-18 - Flagship of Shopify’s next-gen themes.
 * [City Ecommerce UI Kit](https://github.com/shopifypartners/City-Ecommerce-UI-Kit) ⭐ 33 | 🐛 0 | 📅 2017-06-16
 * [Sketch Shopify Data Populator](https://github.com/shopifypartners/sketch-shopify-data-populator) ⭐ 24 | 🐛 0 | 📅 2017-03-31
 * [Figma – Dawn Theme](https://www.figma.com/community/file/1017615468313501249)
@@ -84,8 +84,8 @@
 * [Hydrogen Demo Store](https://github.com/Shopify/hydrogen-demo-store) ⭐ 235 | 🐛 46 | 🌐 TypeScript | 📅 2026-07-01 - Official Hydrogen + Remix template, with full setup of components, queries and tooling for building a headless Shopify storefront. Deployed at hydrogen.shop. 🚀
 * [montalvomiguelo/hydrogen-theme](https://github.com/montalvomiguelo/hydrogen-theme) ⭐ 181 | 🐛 0 | 🌐 Liquid | 📅 2026-08-16 - A port of Hydrogen's default template to Shopify OS 2.0.
 * [packdigital/pack-hydrogen-theme-blueprint](https://github.com/packdigital/pack-hydrogen-theme-blueprint) ⭐ 105 | 🐛 13 | 🌐 TypeScript | 📅 2026-09-18 - A fully-featured Shopify Hydrogen starter theme packed with versatile components designed to seamlessly integrate with Pack and Shopify Hydrogen.
-* [AEOrank](https://github.com/vinpatel/aeorank/tree/main/packages/shopify) ⭐ 14 | 🐛 8 | 🌐 TypeScript | 📅 2026-09-18 - Hydrogen plugin that generates AI-readable files (llms.txt, ai.txt, CLAUDE.md, schema.json) so ChatGPT and Perplexity can find and cite your products.
-* [mock.shop starter](https://github.com/Shopify/mock-shop-starter) ⭐ 1 | 🐛 3 | 🌐 TypeScript | 📅 2026-09-17 - Official Hydrogen skeleton pre-wired to [mock.shop](https://mock.shop), Shopify's auth-free Storefront API with 100+ fictional stores. Runs with no store, app, or access token; switch stores with one env var.
+* [AEOrank](https://github.com/vinpatel/aeorank/tree/main/packages/shopify) ⭐ 14 | 🐛 8 | 🌐 TypeScript | 📅 2026-09-19 - Hydrogen plugin that generates AI-readable files (llms.txt, ai.txt, CLAUDE.md, schema.json) so ChatGPT and Perplexity can find and cite your products.
+* [mock.shop starter](https://github.com/Shopify/mock-shop-starter) ⭐ 1 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-18 - Official Hydrogen skeleton pre-wired to [mock.shop](https://mock.shop), Shopify's auth-free Storefront API with 100+ fictional stores. Runs with no store, app, or access token; switch stores with one env var.
 
 ### Liquid Template
 
@@ -96,7 +96,7 @@
 ### Others
 
 * [Shopify Vite](https://github.com/barrel/shopify-vite) ⭐ 467 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-17 - Modern frontend tooling for Shopify theme development using Vite for a best-in-class DX.
-* [Shopify UI Extensions](https://github.com/Shopify/ui-extensions) ⭐ 350 | 🐛 447 | 🌐 TypeScript | 📅 2026-09-18 – Repo for the public definition of Shopify’s UI extension APIs. Developers use this to build strongly-typed UI extensions for Shopify surfaces. 🧰
+* [Shopify UI Extensions](https://github.com/Shopify/ui-extensions) ⭐ 350 | 🐛 452 | 🌐 TypeScript | 📅 2026-09-18 – Repo for the public definition of Shopify’s UI extension APIs. Developers use this to build strongly-typed UI extensions for Shopify surfaces. 🧰
 
 ## Mobile
 
@@ -128,20 +128,20 @@ You can use official Shopify libraries or any of the third party libraries below
 
 ### Python
 
-* [Shopify Python API](https://github.com/Shopify/shopify_python_api) ⭐ 1,434 | 🐛 25 | 🌐 Python | 📅 2026-08-25
+* [Shopify Python API](https://github.com/Shopify/shopify_python_api) ⭐ 1,435 | 🐛 25 | 🌐 Python | 📅 2026-08-25
 * [django-shopify-auth](https://github.com/discolabs/django-shopify-auth) ⭐ 149 | 🐛 2 | 🌐 Python | 📅 2025-01-17 - A package for adding Shopify authentication to a Django app.
 * [Django Shopify Webhook](https://github.com/discolabs/django-shopify-webhook) ⭐ 47 | 🐛 0 | 🌐 Python | 📅 2025-02-28 - A package for receiving Shopify Webhooks in Django.
 
 ### JavaScript
 
 * [js-buy-sdk](https://github.com/Shopify/js-buy-sdk) ⭐ 1,019 | 🐛 27 | 🌐 JavaScript | 📅 2026-03-27 - Shopify JavaScript Buy SDK. (Check Cart API ⚠️)
-* [shopify-api-node](https://github.com/MONEI/Shopify-api-node) ⭐ 980 | 🐛 31 | 🌐 JavaScript | 📅 2025-04-11 - Node.js Shopify connector.
+* [shopify-api-node](https://github.com/MONEI/Shopify-api-node) ⭐ 981 | 🐛 31 | 🌐 JavaScript | 📅 2025-04-11 - Node.js Shopify connector.
 * [Shopify API and app tools for JavaScript](https://github.com/Shopify/shopify-app-js) ⭐ 540 | 🐛 134 | 🌐 TypeScript | 📅 2026-09-18
-* [nestjs-shopify](https://github.com/nestjs-shopify/nestjs-shopify) ⭐ 151 | 🐛 18 | 🌐 TypeScript | 📅 2026-09-16 - Packages to develop Shopify application using NestJS.
+* [nestjs-shopify](https://github.com/nestjs-shopify/nestjs-shopify) ⭐ 151 | 🐛 18 | 🌐 TypeScript | 📅 2026-09-19 - Packages to develop Shopify application using NestJS.
 
 ### DotNet
 
-* [nozzlegear/ShopifySharp](https://github.com/nozzlegear/ShopifySharp) ⭐ 898 | 🐛 223 | 🌐 C# | 📅 2026-09-17 - A .NET library for Shopify.
+* [nozzlegear/ShopifySharp](https://github.com/nozzlegear/ShopifySharp) ⭐ 897 | 🐛 223 | 🌐 C# | 📅 2026-09-17 - A .NET library for Shopify.
 
 ### Elixir
 
@@ -249,7 +249,7 @@ You can use official Shopify libraries or any of the third party libraries below
 ### CLI Tools
 
 * [Theme Kit](https://github.com/Shopify/themekit) ⭐ 1,321 | 🐛 5 | 🌐 Go | 📅 2025-11-20 - Shopify theme development command line tool. ⚠️
-* [Shopify CLI](https://github.com/Shopify/cli) ⭐ 749 | 🐛 162 | 🌐 TypeScript | 📅 2026-09-18 - CLI to build apps, themes, and hydrogen storefronts for Shopify 🚀.
+* [Shopify CLI](https://github.com/Shopify/cli) ⭐ 750 | 🐛 159 | 🌐 TypeScript | 📅 2026-09-18 - CLI to build apps, themes, and hydrogen storefronts for Shopify 🚀.
 * [Theme Check](https://github.com/Shopify/theme-check) ⚠️ Archived - The Ultimate Shopify Theme Linter. ⚠️
 
 ### CI/CD & Deployment
@@ -264,7 +264,7 @@ You can use official Shopify libraries or any of the third party libraries below
 
 ### AI tools
 
-* [Agent plugins/extensions for CLIs and IDEs](https://github.com/shopify/shopify-ai-toolkit) ⭐ 551 | 🐛 20 | 🌐 JavaScript | 📅 2026-09-18
+* [Agent plugins/extensions for CLIs and IDEs](https://github.com/shopify/shopify-ai-toolkit) ⭐ 555 | 🐛 20 | 🌐 JavaScript | 📅 2026-09-18
 
 ### Services
 
@@ -312,4 +312,4 @@ Thanks to all [contributors](https://github.com/julionc/awesome-shopify/graphs/c
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._

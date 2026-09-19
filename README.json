@@ -16,10 +16,10 @@
             "language": "Liquid",
             "license": "NOASSERTION",
             "last_commit": "2026-08-10T20:55:54Z",
-            "open_issues": 28,
+            "open_issues": 27,
             "owner": "Shopify",
             "repo": "dawn",
-            "stars": 3081,
+            "stars": 3082,
             "topics": []
           },
           "first_seen": "2026-08-28T23:39:38.037Z"
@@ -40,7 +40,7 @@
             "open_issues": 30,
             "owner": "Shopify",
             "repo": "horizon",
-            "stars": 458,
+            "stars": 459,
             "topics": []
           },
           "first_seen": "2026-08-28T23:39:38.037Z"
@@ -179,7 +179,7 @@
                 "id": 538665344,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-18T17:39:36Z",
+                "last_commit": "2026-09-18T19:27:49Z",
                 "open_issues": 110,
                 "owner": "Shopify",
                 "repo": "hydrogen",
@@ -349,12 +349,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Scan any website for AI visibility. Score 0-100 across 36 criteria. Generate 9 AI-readable files. CLI + GitHub App + 13 framework plugins. Open source.",
+                "description": "Scan any website for AI visibility. Score 0–100 across 12 dimensions (aeorank-cli@0.1.1). Generate 8 AI-readable files. CLI + GitHub Action + App. MIT.",
                 "homepage": "https://aeorank.dev",
                 "id": 1182092885,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-18T14:39:43Z",
+                "last_commit": "2026-09-19T14:36:48Z",
                 "open_issues": 8,
                 "owner": "vinpatel",
                 "repo": "aeorank",
@@ -396,8 +396,8 @@
                 "id": 1361537292,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-17T17:55:55Z",
-                "open_issues": 3,
+                "last_commit": "2026-09-18T19:03:03Z",
+                "open_issues": 2,
                 "owner": "Shopify",
                 "repo": "mock-shop-starter",
                 "stars": 1,
@@ -459,8 +459,8 @@
                 "id": 263382488,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-18T16:21:08Z",
-                "open_issues": 447,
+                "last_commit": "2026-09-18T19:34:32Z",
+                "open_issues": 452,
                 "owner": "Shopify",
                 "repo": "ui-extensions",
                 "stars": 350,
@@ -706,7 +706,7 @@
                 "open_issues": 25,
                 "owner": "Shopify",
                 "repo": "shopify_python_api",
-                "stars": 1434,
+                "stars": 1435,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:38.037Z"
@@ -800,7 +800,7 @@
                 "open_issues": 31,
                 "owner": "MONEI",
                 "repo": "Shopify-api-node",
-                "stars": 980,
+                "stars": 981,
                 "topics": [
                   "ecommerce",
                   "javascript",
@@ -829,7 +829,7 @@
                 "id": 526668551,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-18T16:14:43Z",
+                "last_commit": "2026-09-18T20:11:18Z",
                 "open_issues": 134,
                 "owner": "Shopify",
                 "repo": "shopify-app-js",
@@ -850,7 +850,7 @@
                 "id": 518853694,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-16T16:52:10Z",
+                "last_commit": "2026-09-19T00:57:52Z",
                 "open_issues": 18,
                 "owner": "nestjs-shopify",
                 "repo": "nestjs-shopify",
@@ -886,7 +886,7 @@
                 "open_issues": 223,
                 "owner": "nozzlegear",
                 "repo": "ShopifySharp",
-                "stars": 898,
+                "stars": 897,
                 "topics": [
                   "csharp",
                   "dotnet",
@@ -2490,11 +2490,11 @@
                 "id": 505864478,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-18T16:43:57Z",
-                "open_issues": 162,
+                "last_commit": "2026-09-18T21:11:35Z",
+                "open_issues": 159,
                 "owner": "Shopify",
                 "repo": "cli",
-                "stars": 749,
+                "stars": 750,
                 "topics": [
                   "cli",
                   "oclif",
@@ -2522,7 +2522,7 @@
                 "open_issues": 0,
                 "owner": "Shopify",
                 "repo": "theme-check",
-                "stars": 358,
+                "stars": 359,
                 "topics": [
                   "linter",
                   "liquid",
@@ -2608,7 +2608,7 @@
                 "open_issues": 20,
                 "owner": "Shopify",
                 "repo": "Shopify-AI-Toolkit",
-                "stars": 551,
+                "stars": 555,
                 "topics": [
                   "gemini-cli-extension"
                 ]
@@ -2735,7 +2735,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T17:50:46.700Z",
+    "last_updated": "2026-09-19T17:24:59.378Z",
     "original_repository_info": {
       "archived": false,
       "description": "📌✨A curated list of awesome Shopify resources, libraries and open source projects.",
