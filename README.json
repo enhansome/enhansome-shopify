@@ -19,7 +19,7 @@
             "open_issues": 33,
             "owner": "Shopify",
             "repo": "dawn",
-            "stars": 3096,
+            "stars": 3097,
             "topics": []
           },
           "first_seen": "2026-08-28T23:39:38.037Z"
@@ -40,7 +40,7 @@
             "open_issues": 30,
             "owner": "Shopify",
             "repo": "horizon",
-            "stars": 465,
+            "stars": 464,
             "topics": []
           },
           "first_seen": "2026-08-28T23:39:38.037Z"
@@ -48,7 +48,7 @@
         {
           "node_type": "item",
           "title": "City Ecommerce UI Kit",
-          "description": null,
+          "description": "shopifypartners/City-Ecommerce-UI-Kit",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -69,7 +69,7 @@
         {
           "node_type": "item",
           "title": "Sketch Shopify Data Populator",
-          "description": null,
+          "description": "shopifypartners/sketch-shopify-data-populator",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -179,11 +179,11 @@
                 "id": 538665344,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-02T19:23:34Z",
-                "open_issues": 111,
+                "last_commit": "2026-10-02T23:16:30Z",
+                "open_issues": 112,
                 "owner": "Shopify",
                 "repo": "hydrogen",
-                "stars": 2139,
+                "stars": 2138,
                 "topics": [
                   "hydrogen",
                   "react",
@@ -331,7 +331,7 @@
                 "open_issues": 17,
                 "owner": "packdigital",
                 "repo": "pack-hydrogen-theme-blueprint",
-                "stars": 105,
+                "stars": 104,
                 "topics": [
                   "ecommerce",
                   "hydrogen",
@@ -400,7 +400,7 @@
                 "open_issues": 2,
                 "owner": "Shopify",
                 "repo": "mock-shop-starter",
-                "stars": 1,
+                "stars": 0,
                 "topics": [
                   "ai-agents",
                   "ecommerce",
@@ -459,11 +459,11 @@
                 "id": 263382488,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-02T17:26:21Z",
+                "last_commit": "2026-10-02T23:27:14Z",
                 "open_issues": 439,
                 "owner": "Shopify",
                 "repo": "ui-extensions",
-                "stars": 351,
+                "stars": 352,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:38.037Z"
@@ -533,7 +533,7 @@
             {
               "node_type": "item",
               "title": "Shopify Checkout Sheet Kit (React Native)",
-              "description": null,
+              "description": "Shopify/checkout-sheet-kit-react-native",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -558,7 +558,7 @@
             {
               "node_type": "item",
               "title": "Shopify Checkout Sheet Kit (Swift)",
-              "description": null,
+              "description": "Shopify/checkout-sheet-kit-swift",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -584,7 +584,7 @@
             {
               "node_type": "item",
               "title": "Shopify Checkout Sheet Kit (Android)",
-              "description": null,
+              "description": "Shopify/checkout-sheet-kit-android",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -623,7 +623,7 @@
             {
               "node_type": "item",
               "title": "A Rails Engine for building Shopify Apps",
-              "description": null,
+              "description": "Shopify/shopify_app",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -636,7 +636,7 @@
                 "open_issues": 58,
                 "owner": "Shopify",
                 "repo": "shopify_app",
-                "stars": 1933,
+                "stars": 1932,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:38.037Z"
@@ -644,7 +644,7 @@
             {
               "node_type": "item",
               "title": "Shopify Ruby API",
-              "description": null,
+              "description": "Shopify/shopify-api-ruby",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -657,7 +657,7 @@
                 "open_issues": 39,
                 "owner": "Shopify",
                 "repo": "shopify-api-ruby",
-                "stars": 1109,
+                "stars": 1110,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:38.037Z"
@@ -665,7 +665,7 @@
             {
               "node_type": "item",
               "title": "Shopify OAuth2 Strategy for OmniAuth",
-              "description": null,
+              "description": "Shopify/omniauth-shopify-oauth2",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -693,7 +693,7 @@
             {
               "node_type": "item",
               "title": "Shopify Python API",
-              "description": null,
+              "description": "Shopify/shopify_python_api",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -706,7 +706,7 @@
                 "open_issues": 26,
                 "owner": "Shopify",
                 "repo": "shopify_python_api",
-                "stars": 1437,
+                "stars": 1436,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:38.037Z"
@@ -820,7 +820,7 @@
             {
               "node_type": "item",
               "title": "Shopify API and app tools for JavaScript",
-              "description": null,
+              "description": "Shopify/shopify-app-js",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -850,7 +850,7 @@
                 "id": 518853694,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-02T01:15:36Z",
+                "last_commit": "2026-10-02T22:08:54Z",
                 "open_issues": 19,
                 "owner": "nestjs-shopify",
                 "repo": "nestjs-shopify",
@@ -1476,7 +1476,7 @@
             {
               "node_type": "item",
               "title": "Shopify Function Rust",
-              "description": null,
+              "description": "Shopify/shopify-function-rust",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1518,7 +1518,7 @@
             {
               "node_type": "item",
               "title": "Shopify API Client for Rust",
-              "description": null,
+              "description": "0xtlt/shopify_api",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1909,7 +1909,7 @@
                 "open_issues": 28,
                 "owner": "Shopify",
                 "repo": "product-reviews-sample-app",
-                "stars": 380,
+                "stars": 379,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:38.037Z"
@@ -1930,7 +1930,7 @@
                 "open_issues": 0,
                 "owner": "kinngh",
                 "repo": "shopify-node-express-mongodb-app",
-                "stars": 342,
+                "stars": 343,
                 "topics": [
                   "boilerplate",
                   "shopify",
@@ -2341,7 +2341,7 @@
             {
               "node_type": "item",
               "title": "Elixir Shopify App (Phoenix)",
-              "description": null,
+              "description": "orbit-apps/elixir-shopify-app",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2466,7 +2466,7 @@
                 "open_issues": 6,
                 "owner": "Shopify",
                 "repo": "themekit",
-                "stars": 1320,
+                "stars": 1318,
                 "topics": [
                   "go",
                   "shopify",
@@ -2490,11 +2490,11 @@
                 "id": 505864478,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-02T19:27:55Z",
+                "last_commit": "2026-10-02T21:14:51Z",
                 "open_issues": 125,
                 "owner": "Shopify",
                 "repo": "cli",
-                "stars": 754,
+                "stars": 753,
                 "topics": [
                   "cli",
                   "oclif",
@@ -2522,7 +2522,7 @@
                 "open_issues": 0,
                 "owner": "Shopify",
                 "repo": "theme-check",
-                "stars": 359,
+                "stars": 358,
                 "topics": [
                   "linter",
                   "liquid",
@@ -2541,7 +2541,7 @@
             {
               "node_type": "item",
               "title": "vim-liquid",
-              "description": null,
+              "description": "tpope/vim-liquid",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2562,7 +2562,7 @@
             {
               "node_type": "item",
               "title": "zed-shopify-liquid",
-              "description": null,
+              "description": "TheBeyondGroup/zed-shopify-liquid",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2595,7 +2595,7 @@
             {
               "node_type": "item",
               "title": "Agent plugins/extensions for CLIs and IDEs",
-              "description": null,
+              "description": "Shopify/Shopify-AI-Toolkit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2608,7 +2608,7 @@
                 "open_issues": 20,
                 "owner": "Shopify",
                 "repo": "Shopify-AI-Toolkit",
-                "stars": 585,
+                "stars": 584,
                 "topics": [
                   "gemini-cli-extension"
                 ]
@@ -2735,7 +2735,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T19:29:26.125Z",
+    "last_updated": "2026-10-03T05:07:29.718Z",
     "original_repository_info": {
       "archived": false,
       "description": "📌✨A curated list of awesome Shopify resources, libraries and open source projects.",
@@ -2743,11 +2743,11 @@
       "id": 58393941,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-10-01T17:49:04Z",
-      "open_issues": 13,
+      "last_commit": "2026-10-02T22:30:34Z",
+      "open_issues": 11,
       "owner": "julionc",
       "repo": "awesome-shopify",
-      "stars": 1288,
+      "stars": 1289,
       "topics": [
         "awesome",
         "awesome-list",
@@ -2759,7 +2759,7 @@
         "shopify-theme"
       ]
     },
-    "original_repository_sha": "e1db7142bef5c33ca45e09b5ae73da6f0c59b714",
+    "original_repository_sha": "3689824b0a6bf63a135beff7fece541f3e221fe4",
     "enhanced_repository": "enhansome/enhansome-shopify",
     "enhanced_repository_description": null,
     "title": "Awesome Shopify with stars"
