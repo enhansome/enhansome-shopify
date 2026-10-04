@@ -16,10 +16,10 @@
             "language": "Liquid",
             "license": "NOASSERTION",
             "last_commit": "2026-10-02T16:46:30Z",
-            "open_issues": 34,
+            "open_issues": 35,
             "owner": "Shopify",
             "repo": "dawn",
-            "stars": 3097,
+            "stars": 3096,
             "topics": []
           },
           "first_seen": "2026-08-28T23:39:38.037Z"
@@ -205,8 +205,8 @@
                 "id": 150124987,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-30T13:28:15Z",
-                "open_issues": 17,
+                "last_commit": "2026-10-04T06:52:28Z",
+                "open_issues": 20,
                 "owner": "Weaverse",
                 "repo": "pilot",
                 "stars": 385,
@@ -354,8 +354,8 @@
                 "id": 1182092885,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-03T15:39:28Z",
-                "open_issues": 10,
+                "last_commit": "2026-10-04T15:57:46Z",
+                "open_issues": 8,
                 "owner": "vinpatel",
                 "repo": "aeorank",
                 "stars": 15,
@@ -654,7 +654,7 @@
                 "language": "Ruby",
                 "license": "MIT",
                 "last_commit": "2026-09-22T20:47:48Z",
-                "open_issues": 39,
+                "open_issues": 41,
                 "owner": "Shopify",
                 "repo": "shopify-api-ruby",
                 "stars": 1110,
@@ -703,10 +703,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-25T20:49:04Z",
-                "open_issues": 26,
+                "open_issues": 25,
                 "owner": "Shopify",
                 "repo": "shopify_python_api",
-                "stars": 1436,
+                "stars": 1435,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:38.037Z"
@@ -830,7 +830,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-02T15:44:24Z",
-                "open_issues": 145,
+                "open_issues": 146,
                 "owner": "Shopify",
                 "repo": "shopify-app-js",
                 "stars": 542,
@@ -1818,7 +1818,7 @@
                 "open_issues": 0,
                 "owner": "VienDinhCom",
                 "repo": "next-shopify-storefront",
-                "stars": 869,
+                "stars": 870,
                 "topics": [
                   "eslint",
                   "graphql",
@@ -2608,7 +2608,7 @@
                 "open_issues": 20,
                 "owner": "Shopify",
                 "repo": "Shopify-AI-Toolkit",
-                "stars": 584,
+                "stars": 585,
                 "topics": [
                   "gemini-cli-extension"
                 ]
@@ -2735,7 +2735,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T18:08:28.542Z",
+    "last_updated": "2026-10-04T18:20:39.381Z",
     "original_repository_info": {
       "archived": false,
       "description": "📌✨A curated list of awesome Shopify resources, libraries and open source projects.",
