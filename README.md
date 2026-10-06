@@ -78,7 +78,7 @@
 
 ### Hydrogen (Headless)
 
-* [Hydrogen](https://hydrogen.shopify.dev) - Headless stack for custom storefronts. [Source code](https://github.com/Shopify/hydrogen) ⭐ 2,140 | 🐛 113 | 🌐 TypeScript | 📅 2026-10-05.
+* [Hydrogen](https://hydrogen.shopify.dev) - Headless stack for custom storefronts. [Source code](https://github.com/Shopify/hydrogen) ⭐ 2,140 | 🐛 114 | 🌐 TypeScript | 📅 2026-10-06.
 * [Pilot (Weaverse Hydrogen Theme)](https://github.com/Weaverse/pilot) ⭐ 385 | 🐛 16 | 🌐 TypeScript | 📅 2026-10-05 - Fully featured Shopify Hydrogen theme crafted for launching modern, high-performance headless storefronts. Includes TypeScript, Tailwind CSS, GraphQL code generation, React Router, Oxygen deployment, and customization via Weaverse Studio. 🚀
 * [Fluid](https://github.com/frontvibe/fluid) ⭐ 289 | 🐛 17 | 🌐 TypeScript | 📅 2026-08-31 - Hydrogen + Sanity for structured content management.
 * [Hydrogen Demo Store](https://github.com/Shopify/hydrogen-demo-store) ⭐ 236 | 🐛 46 | 🌐 TypeScript | 📅 2026-07-01 - Official Hydrogen + Remix template, with full setup of components, queries and tooling for building a headless Shopify storefront. Deployed at hydrogen.shop. 🚀
@@ -186,13 +186,13 @@ You can use official Shopify libraries or any of the third party libraries below
 * [Ventmere/shopify](https://github.com/Ventmere/shopify/) ⭐ 19 | 🐛 1 | 🌐 Rust | 📅 2024-12-03 - Shopify API Client for Rust. ⏱⚠️
 * [Shopify API Client for Rust](https://github.com/0xtlt/shopify_api) ⭐ 18 | 🐛 8 | 🌐 Rust | 📅 2026-07-28
 * [shopify-api-rust](https://github.com/saschabratton/shopify-api-rust) ⭐ 4 | 🐛 0 | 🌐 Rust | 📅 2026-08-10 - Rust SDK for the Shopify API.
-* [Shopify Rust Client](https://github.com/sinha-sahil/shopify-rust-client) ⭐ 3 | 🐛 1 | 🌐 Rust | 📅 2026-10-05 - A type-safe, async Rust client for the Shopify Admin API.
+* [Shopify Rust Client](https://github.com/sinha-sahil/shopify-rust-client) ⭐ 3 | 🐛 2 | 🌐 Rust | 📅 2026-10-05 - A type-safe, async Rust client for the Shopify Admin API.
 
 ## Example Apps
 
 ### Shopify App Templates
 
-* [Shopify App Template (React Router)](https://github.com/Shopify/shopify-app-template-react-router) ⭐ 199 | 🐛 26 | 🌐 TypeScript | 📅 2026-10-05 - Template for Shopify apps using React Router for routing instead of Next.js or Remix.
+* [Shopify App Template (React Router)](https://github.com/Shopify/shopify-app-template-react-router) ⭐ 200 | 🐛 26 | 🌐 TypeScript | 📅 2026-10-05 - Template for Shopify apps using React Router for routing instead of Next.js or Remix.
 * [Shopify Payments App Template (Remix)](https://github.com/Shopify/example-app--payments-app-template--remix) ⭐ 27 | 🐛 2 | 🌐 JavaScript | 📅 2026-10-05 - Remix template for building Shopify apps with payments integration (Payments App API support). 🚀
 * [Shopify Credit Card Payments Template (Remix)](https://github.com/Shopify/example-app--credit-card-payments-app-template--remix) ⭐ 16 | 🐛 2 | 🌐 JavaScript | 📅 2026-10-05 - Remix example showing Credit Card Payments integration using Shopify’s Payments API. 🏦
 * [Shopify Optional Scopes Example (Remix)](https://github.com/Shopify/example-app--optional-scopes--remix) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2025-10-01 - Example showing how to request optional API scopes during app installation, built with Remix.
@@ -249,7 +249,7 @@ You can use official Shopify libraries or any of the third party libraries below
 ### CLI Tools
 
 * [Theme Kit](https://github.com/Shopify/themekit) ⭐ 1,320 | 🐛 6 | 🌐 Go | 📅 2026-09-25 - Shopify theme development command line tool. ⚠️
-* [Shopify CLI](https://github.com/Shopify/cli) ⭐ 753 | 🐛 129 | 🌐 TypeScript | 📅 2026-10-05 - CLI to build apps, themes, and hydrogen storefronts for Shopify 🚀.
+* [Shopify CLI](https://github.com/Shopify/cli) ⭐ 754 | 🐛 140 | 🌐 TypeScript | 📅 2026-10-06 - CLI to build apps, themes, and hydrogen storefronts for Shopify 🚀.
 * [Theme Check](https://github.com/Shopify/theme-check) ⚠️ Archived - The Ultimate Shopify Theme Linter. ⚠️
 
 ### CI/CD & Deployment
@@ -312,4 +312,4 @@ Thanks to all [contributors](https://github.com/julionc/awesome-shopify/graphs/c
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._

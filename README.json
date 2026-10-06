@@ -179,8 +179,8 @@
                 "id": 538665344,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-05T15:07:26Z",
-                "open_issues": 113,
+                "last_commit": "2026-10-06T02:13:54Z",
+                "open_issues": 114,
                 "owner": "Shopify",
                 "repo": "hydrogen",
                 "stars": 2140,
@@ -1574,7 +1574,7 @@
                 "language": "Rust",
                 "license": null,
                 "last_commit": "2026-10-05T06:05:37Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "sinha-sahil",
                 "repo": "shopify-rust-client",
                 "stars": 3,
@@ -1611,7 +1611,7 @@
                 "open_issues": 26,
                 "owner": "Shopify",
                 "repo": "shopify-app-template-react-router",
-                "stars": 199,
+                "stars": 200,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:38.037Z"
@@ -2490,11 +2490,11 @@
                 "id": 505864478,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-05T21:34:22Z",
-                "open_issues": 129,
+                "last_commit": "2026-10-06T10:00:24Z",
+                "open_issues": 140,
                 "owner": "Shopify",
                 "repo": "cli",
-                "stars": 753,
+                "stars": 754,
                 "topics": [
                   "cli",
                   "oclif",
@@ -2735,7 +2735,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T21:36:20.206Z",
+    "last_updated": "2026-10-06T10:39:47.163Z",
     "original_repository_info": {
       "archived": false,
       "description": "📌✨A curated list of awesome Shopify resources, libraries and open source projects.",
