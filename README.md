@@ -53,8 +53,8 @@
 
 ## Themes & Design
 
-* [Shopify Dawn](https://github.com/Shopify/dawn) ⭐ 3,097 | 🐛 37 | 🌐 Liquid | 📅 2026-10-02 - Official Online Store 2.0 theme.
-* [Shopify Horizon](https://github.com/Shopify/horizon) ⭐ 467 | 🐛 30 | 🌐 Liquid | 📅 2026-09-21 - Flagship of Shopify’s next-gen themes.
+* [Shopify Dawn](https://github.com/Shopify/dawn) ⭐ 3,097 | 🐛 37 | 🌐 Liquid | 📅 2026-10-09 - Official Online Store 2.0 theme.
+* [Shopify Horizon](https://github.com/Shopify/horizon) ⭐ 468 | 🐛 30 | 🌐 Liquid | 📅 2026-09-21 - Flagship of Shopify’s next-gen themes.
 * [City Ecommerce UI Kit](https://github.com/shopifypartners/City-Ecommerce-UI-Kit) ⭐ 34 | 🐛 0 | 📅 2017-06-16
 * [Sketch Shopify Data Populator](https://github.com/shopifypartners/sketch-shopify-data-populator) ⭐ 24 | 🐛 0 | 📅 2017-03-31
 * [Figma – Dawn Theme](https://www.figma.com/community/file/1017615468313501249)
@@ -70,21 +70,19 @@
 
 ### Polaris React (Deprecated ⚠️)
 
-* [Polaris React](https://polaris-react.shopify.com/) - Legacy React component library. [GitHub](https://github.com/Shopify/polaris-react-archive) ⚠️ Archived
+* [Polaris React](https://github.com/Shopify/polaris-react-archive) ⚠️ Archived - Legacy React component library.
 * [Polaris Vue](https://github.com/ownego/polaris-vue) ⭐ 181 | 🐛 11 | 🌐 Vue | 📅 2026-09-08 - Vue 3 implementation.
-* [Polaris Design Guidelines](https://shopify.github.io/polaris-react-archive/design)
-* [Polaris Icon Explorer](https://shopify.github.io/polaris-react-archive/icons)
-* [Polaris Components](https://shopify.github.io/polaris-react-archive/components) - Open-source collection of copy/paste UI components built using Shopify’s Polaris design system. 💡
+* [Storybook for Polaris React](https://storybook.polaris.shopify.dev)
 
 ### Hydrogen (Headless)
 
-* [Hydrogen](https://hydrogen.shopify.dev) - Headless stack for custom storefronts. [Source code](https://github.com/Shopify/hydrogen) ⭐ 2,141 | 🐛 94 | 🌐 TypeScript | 📅 2026-10-08.
+* [Hydrogen](https://hydrogen.shopify.dev) - Headless stack for custom storefronts. [Source code](https://github.com/Shopify/hydrogen) ⭐ 2,142 | 🐛 97 | 🌐 TypeScript | 📅 2026-10-09.
 * [Pilot (Weaverse Hydrogen Theme)](https://github.com/Weaverse/pilot) ⭐ 387 | 🐛 16 | 🌐 TypeScript | 📅 2026-10-08 - Fully featured Shopify Hydrogen theme crafted for launching modern, high-performance headless storefronts. Includes TypeScript, Tailwind CSS, GraphQL code generation, React Router, Oxygen deployment, and customization via Weaverse Studio. 🚀
 * [Fluid](https://github.com/frontvibe/fluid) ⭐ 289 | 🐛 17 | 🌐 TypeScript | 📅 2026-08-31 - Hydrogen + Sanity for structured content management.
-* [Hydrogen Demo Store](https://github.com/Shopify/hydrogen-demo-store) ⭐ 237 | 🐛 46 | 🌐 TypeScript | 📅 2026-07-01 - Official Hydrogen + Remix template, with full setup of components, queries and tooling for building a headless Shopify storefront. Deployed at hydrogen.shop. 🚀
+* [Hydrogen Demo Store](https://github.com/Shopify/hydrogen-demo-store) ⭐ 237 | 🐛 47 | 🌐 TypeScript | 📅 2026-07-01 - Official Hydrogen + Remix template, with full setup of components, queries and tooling for building a headless Shopify storefront. Deployed at hydrogen.shop. 🚀
 * [montalvomiguelo/hydrogen-theme](https://github.com/montalvomiguelo/hydrogen-theme) ⭐ 180 | 🐛 0 | 🌐 Liquid | 📅 2026-08-16 - A port of Hydrogen's default template to Shopify OS 2.0.
 * [packdigital/pack-hydrogen-theme-blueprint](https://github.com/packdigital/pack-hydrogen-theme-blueprint) ⭐ 103 | 🐛 17 | 🌐 TypeScript | 📅 2026-09-30 - A fully-featured Shopify Hydrogen starter theme packed with versatile components designed to seamlessly integrate with Pack and Shopify Hydrogen.
-* [AEOrank](https://github.com/vinpatel/aeorank/tree/main/packages/shopify) ⭐ 16 | 🐛 8 | 🌐 TypeScript | 📅 2026-10-08 - Hydrogen plugin that generates AI-readable files (llms.txt, ai.txt, CLAUDE.md, schema.json) so ChatGPT and Perplexity can find and cite your products.
+* [AEOrank](https://github.com/vinpatel/aeorank/tree/main/packages/shopify) ⭐ 16 | 🐛 8 | 🌐 TypeScript | 📅 2026-10-09 - Hydrogen plugin that generates AI-readable files (llms.txt, ai.txt, CLAUDE.md, schema.json) so ChatGPT and Perplexity can find and cite your products.
 * [mock.shop starter](https://github.com/Shopify/mock-shop-starter) ⭐ 0 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-06 - Official Hydrogen skeleton pre-wired to [mock.shop](https://mock.shop), Shopify's auth-free Storefront API with 100+ fictional stores. Runs with no store, app, or access token; switch stores with one env var.
 
 ### Liquid Template
@@ -96,7 +94,7 @@
 ### Others
 
 * [Shopify Vite](https://github.com/barrel/shopify-vite) ⭐ 468 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-17 - Modern frontend tooling for Shopify theme development using Vite for a best-in-class DX.
-* [Shopify UI Extensions](https://github.com/Shopify/ui-extensions) ⭐ 352 | 🐛 438 | 🌐 TypeScript | 📅 2026-10-07 – Repo for the public definition of Shopify’s UI extension APIs. Developers use this to build strongly-typed UI extensions for Shopify surfaces. 🧰
+* [Shopify UI Extensions](https://github.com/Shopify/ui-extensions) ⭐ 352 | 🐛 436 | 🌐 TypeScript | 📅 2026-10-09 – Repo for the public definition of Shopify’s UI extension APIs. Developers use this to build strongly-typed UI extensions for Shopify surfaces. 🧰
 
 ## Mobile
 
@@ -112,9 +110,9 @@ You can use the iOS and Android Buy SDK to integrate Shopify checkout into your 
 
 Native SDKs for embedding Shopify’s one-page checkout UI directly into mobile apps — supporting styling, lifecycle events, and full checkout integration.
 
-* [Shopify Checkout Sheet Kit (React Native)](https://github.com/Shopify/checkout-sheet-kit-react-native) ⭐ 80 | 🐛 11 | 🌐 TypeScript | 📅 2026-10-07
+* [Shopify Checkout Sheet Kit (React Native)](https://github.com/Shopify/checkout-sheet-kit-react-native) ⭐ 80 | 🐛 11 | 🌐 TypeScript | 📅 2026-10-09
 * [Shopify Checkout Sheet Kit (Swift)](https://github.com/Shopify/checkout-sheet-kit-swift) ⭐ 66 | 🐛 7 | 🌐 Swift | 📅 2026-10-08
-* [Shopify Checkout Sheet Kit (Android)](https://github.com/Shopify/checkout-sheet-kit-android) ⭐ 27 | 🐛 12 | 🌐 Kotlin | 📅 2026-10-07
+* [Shopify Checkout Sheet Kit (Android)](https://github.com/Shopify/checkout-sheet-kit-android) ⭐ 27 | 🐛 14 | 🌐 Kotlin | 📅 2026-10-07
 
 ## Libraries
 
@@ -122,7 +120,7 @@ You can use official Shopify libraries or any of the third party libraries below
 
 ### Ruby
 
-* [A Rails Engine for building Shopify Apps](https://github.com/Shopify/shopify_app) ⭐ 1,933 | 🐛 59 | 🌐 Ruby | 📅 2026-09-22
+* [A Rails Engine for building Shopify Apps](https://github.com/Shopify/shopify_app) ⭐ 1,934 | 🐛 59 | 🌐 Ruby | 📅 2026-09-22
 * [Shopify Ruby API](https://github.com/Shopify/shopify_api) ⭐ 1,110 | 🐛 41 | 🌐 Ruby | 📅 2026-09-22
 * [Shopify OAuth2 Strategy for OmniAuth](https://github.com/Shopify/omniauth-shopify-oauth2) ⭐ 92 | 🐛 19 | 🌐 Ruby | 📅 2026-03-27
 
@@ -136,8 +134,8 @@ You can use official Shopify libraries or any of the third party libraries below
 
 * [js-buy-sdk](https://github.com/Shopify/js-buy-sdk) ⭐ 1,019 | 🐛 27 | 🌐 JavaScript | 📅 2026-03-27 - Shopify JavaScript Buy SDK. (Check Cart API ⚠️)
 * [shopify-api-node](https://github.com/MONEI/Shopify-api-node) ⭐ 981 | 🐛 31 | 🌐 JavaScript | 📅 2025-04-11 - Node.js Shopify connector.
-* [Shopify API and app tools for JavaScript](https://github.com/Shopify/shopify-app-js) ⭐ 543 | 🐛 149 | 🌐 TypeScript | 📅 2026-10-08
-* [nestjs-shopify](https://github.com/nestjs-shopify/nestjs-shopify) ⭐ 151 | 🐛 19 | 🌐 TypeScript | 📅 2026-10-05 - Packages to develop Shopify application using NestJS.
+* [Shopify API and app tools for JavaScript](https://github.com/Shopify/shopify-app-js) ⭐ 541 | 🐛 152 | 🌐 TypeScript | 📅 2026-10-09
+* [nestjs-shopify](https://github.com/nestjs-shopify/nestjs-shopify) ⭐ 151 | 🐛 19 | 🌐 TypeScript | 📅 2026-10-09 - Packages to develop Shopify application using NestJS.
 
 ### DotNet
 
@@ -186,13 +184,13 @@ You can use official Shopify libraries or any of the third party libraries below
 * [Ventmere/shopify](https://github.com/Ventmere/shopify/) ⭐ 19 | 🐛 1 | 🌐 Rust | 📅 2024-12-03 - Shopify API Client for Rust. ⏱⚠️
 * [Shopify API Client for Rust](https://github.com/0xtlt/shopify_api) ⭐ 18 | 🐛 8 | 🌐 Rust | 📅 2026-07-28
 * [shopify-api-rust](https://github.com/saschabratton/shopify-api-rust) ⭐ 4 | 🐛 0 | 🌐 Rust | 📅 2026-10-08 - Rust SDK for the Shopify API.
-* [Shopify Rust Client](https://github.com/sinha-sahil/shopify-rust-client) ⭐ 3 | 🐛 1 | 🌐 Rust | 📅 2026-10-07 - A type-safe, async Rust client for the Shopify Admin API.
+* [Shopify Rust Client](https://github.com/sinha-sahil/shopify-rust-client) ⭐ 3 | 🐛 1 | 🌐 Rust | 📅 2026-10-09 - A type-safe, async Rust client for the Shopify Admin API.
 
 ## Example Apps
 
 ### Shopify App Templates
 
-* [Shopify App Template (React Router)](https://github.com/Shopify/shopify-app-template-react-router) ⭐ 200 | 🐛 26 | 🌐 TypeScript | 📅 2026-10-05 - Template for Shopify apps using React Router for routing instead of Next.js or Remix.
+* [Shopify App Template (React Router)](https://github.com/Shopify/shopify-app-template-react-router) ⭐ 200 | 🐛 26 | 🌐 TypeScript | 📅 2026-10-09 - Template for Shopify apps using React Router for routing instead of Next.js or Remix.
 * [Shopify Payments App Template (Remix)](https://github.com/Shopify/example-app--payments-app-template--remix) ⭐ 27 | 🐛 2 | 🌐 JavaScript | 📅 2026-10-08 - Remix template for building Shopify apps with payments integration (Payments App API support). 🚀
 * [Shopify Credit Card Payments Template (Remix)](https://github.com/Shopify/example-app--credit-card-payments-app-template--remix) ⭐ 16 | 🐛 2 | 🌐 JavaScript | 📅 2026-10-08 - Remix example showing Credit Card Payments integration using Shopify’s Payments API. 🏦
 * [Shopify Optional Scopes Example (Remix)](https://github.com/Shopify/example-app--optional-scopes--remix) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2025-10-01 - Example showing how to request optional API scopes during app installation, built with Remix.
@@ -242,14 +240,15 @@ You can use official Shopify libraries or any of the third party libraries below
 * [freakdesign/shopify-code-snippets](https://github.com/freakdesign/Shopify-code-snippets) ⭐ 601 | 🐛 8 | 🌐 Liquid | 📅 2020-10-04 - Shopify Code Snippets examples and tips.
 * [vikrantnegi/shopify-code-snippets](https://github.com/vikrantnegi/shopify-code-snippets) ⭐ 261 | 🐛 0 | 🌐 Liquid | 📅 2023-12-31 - A compilation of code snippets for Shopify developers.
 * [gocomet/snippets](https://github.com/gocomet/snippets) ⭐ 127 | 🐛 0 | 🌐 Liquid | 📅 2017-03-06 - A collection of code snippets, generally for use with Shopify.
+* [oleharch/dawn-sections](https://github.com/oleharch/dawn-sections) ⭐ 0 | 🐛 0 | 🌐 Liquid | 📅 2026-10-01 - Drop-in sections for Dawn and Online Store 2.0 themes: age gate, sticky add to cart, FAQ, upsell modal, free shipping bar. No apps, no jQuery.
 * [PROPS!](http://props.tools/) - Copy-paste customizable, theme-agnostic\* custom liquid sections.
 
 ## Developer Tools
 
 ### CLI Tools
 
-* [Theme Kit](https://github.com/Shopify/themekit) ⭐ 1,319 | 🐛 6 | 🌐 Go | 📅 2026-09-25 - Shopify theme development command line tool. ⚠️
-* [Shopify CLI](https://github.com/Shopify/cli) ⭐ 753 | 🐛 150 | 🌐 TypeScript | 📅 2026-10-08 - CLI to build apps, themes, and hydrogen storefronts for Shopify 🚀.
+* [Theme Kit](https://github.com/Shopify/themekit) ⭐ 1,321 | 🐛 6 | 🌐 Go | 📅 2026-09-25 - Shopify theme development command line tool. ⚠️
+* [Shopify CLI](https://github.com/Shopify/cli) ⭐ 754 | 🐛 141 | 🌐 TypeScript | 📅 2026-10-09 - CLI to build apps, themes, and hydrogen storefronts for Shopify 🚀.
 * [Theme Check](https://github.com/Shopify/theme-check) ⚠️ Archived - The Ultimate Shopify Theme Linter. ⚠️
 
 ### CI/CD & Deployment
@@ -264,7 +263,7 @@ You can use official Shopify libraries or any of the third party libraries below
 
 ### AI tools
 
-* [Agent plugins/extensions for CLIs and IDEs](https://github.com/shopify/shopify-ai-toolkit) ⭐ 591 | 🐛 20 | 🌐 JavaScript | 📅 2026-10-08
+* [Agent plugins/extensions for CLIs and IDEs](https://github.com/shopify/shopify-ai-toolkit) ⭐ 592 | 🐛 20 | 🌐 JavaScript | 📅 2026-10-08
 
 ### Services
 
@@ -275,7 +274,6 @@ You can use official Shopify libraries or any of the third party libraries below
 * [RequestBin](https://requestbin.net/) - It gives you a bucket to capture external requests. This is useful for seeing what the content of a [Shopify Webhook](https://shopify.dev/docs/api/webhooks) are.
 * [Hookdeck](https://hookdeck.com/) - Tool for monitoring, managing and debugging Shopify Webhooks with custom retry logic, alerts, and filtering.
 * [DeployHQ](https://www.deployhq.com/shopify) - Shopify integration in DeployHQ is a great way to streamline the development, review, and deployment of your store themes.
-* [Calcmatic Shopify Payment Calculator](https://calcmatic.app/calculators/ecommerce/shopify-payments) - Calculate your Shopify payment processing fees instantly.
 
 ### Browser Extensions
 
@@ -312,4 +310,4 @@ Thanks to all [contributors](https://github.com/julionc/awesome-shopify/graphs/c
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
