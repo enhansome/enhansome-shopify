@@ -40,7 +40,7 @@
             "open_issues": 31,
             "owner": "Shopify",
             "repo": "horizon",
-            "stars": 470,
+            "stars": 471,
             "topics": []
           },
           "first_seen": "2026-08-28T23:39:38.037Z"
@@ -179,7 +179,7 @@
                 "id": 538665344,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-16T18:18:24Z",
+                "last_commit": "2026-10-17T01:12:34Z",
                 "open_issues": 96,
                 "owner": "Shopify",
                 "repo": "hydrogen",
@@ -355,7 +355,7 @@
                 "id": 1182092885,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-16T14:42:49Z",
+                "last_commit": "2026-10-17T14:37:09Z",
                 "open_issues": 8,
                 "owner": "vinpatel",
                 "repo": "aeorank",
@@ -637,7 +637,7 @@
                 "open_issues": 59,
                 "owner": "Shopify",
                 "repo": "shopify_app",
-                "stars": 1939,
+                "stars": 1940,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:38.037Z"
@@ -921,8 +921,8 @@
                 "id": 129816247,
                 "language": "Elixir",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-16T16:14:01Z",
-                "open_issues": 16,
+                "last_commit": "2026-10-16T19:54:58Z",
+                "open_issues": 15,
                 "owner": "orbit-apps",
                 "repo": "elixir-shopifyapi",
                 "stars": 32,
@@ -2033,8 +2033,8 @@
                 "id": 655609309,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-13T14:05:24Z",
-                "open_issues": 3,
+                "last_commit": "2026-10-17T14:41:14Z",
+                "open_issues": 4,
                 "owner": "Mini-Sylar",
                 "repo": "shopify-app-vue-template",
                 "stars": 85,
@@ -2495,7 +2495,7 @@
                 "id": 25364922,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-25T13:12:17Z",
+                "last_commit": "2026-10-16T23:13:31Z",
                 "open_issues": 6,
                 "owner": "Shopify",
                 "repo": "themekit",
@@ -2523,8 +2523,8 @@
                 "id": 505864478,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-16T16:06:41Z",
-                "open_issues": 129,
+                "last_commit": "2026-10-17T03:42:44Z",
+                "open_issues": 128,
                 "owner": "Shopify",
                 "repo": "cli",
                 "stars": 757,
@@ -2641,7 +2641,7 @@
                 "open_issues": 21,
                 "owner": "Shopify",
                 "repo": "Shopify-AI-Toolkit",
-                "stars": 601,
+                "stars": 603,
                 "topics": [
                   "gemini-cli-extension"
                 ]
@@ -2776,7 +2776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T18:19:06.450Z",
+    "last_updated": "2026-10-17T17:31:01.828Z",
     "original_repository_info": {
       "archived": false,
       "description": "📌✨A curated list of awesome Shopify resources, libraries and open source projects.",
@@ -2788,7 +2788,7 @@
       "open_issues": 12,
       "owner": "julionc",
       "repo": "awesome-shopify",
-      "stars": 1295,
+      "stars": 1297,
       "topics": [
         "awesome",
         "awesome-list",
