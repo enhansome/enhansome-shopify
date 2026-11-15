@@ -113,7 +113,7 @@
                 "open_issues": 46,
                 "owner": "Shopify",
                 "repo": "polaris-react-archive",
-                "stars": 6149,
+                "stars": 6148,
                 "topics": [
                   "component-library",
                   "design-system",
@@ -180,7 +180,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-11-13T23:50:03Z",
-                "open_issues": 126,
+                "open_issues": 123,
                 "owner": "Shopify",
                 "repo": "hydrogen",
                 "stars": 2178,
@@ -355,7 +355,7 @@
                 "id": 1182092885,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-14T19:24:29Z",
+                "last_commit": "2026-11-15T19:54:50Z",
                 "open_issues": 9,
                 "owner": "vinpatel",
                 "repo": "aeorank",
@@ -436,7 +436,7 @@
                 "open_issues": 1,
                 "owner": "barrel",
                 "repo": "shopify-vite",
-                "stars": 470,
+                "stars": 471,
                 "topics": [
                   "frontend-tooling",
                   "integration",
@@ -831,7 +831,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-11-13T15:49:23Z",
-                "open_issues": 155,
+                "open_issues": 157,
                 "owner": "Shopify",
                 "repo": "shopify-app-js",
                 "stars": 546,
@@ -1037,8 +1037,8 @@
                 "id": 143448238,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-11-13T16:00:40Z",
-                "open_issues": 9,
+                "last_commit": "2026-11-15T07:02:33Z",
+                "open_issues": 8,
                 "owner": "bold-commerce",
                 "repo": "go-shopify",
                 "stars": 394,
@@ -1612,7 +1612,7 @@
                 "open_issues": 33,
                 "owner": "Shopify",
                 "repo": "shopify-app-template-react-router",
-                "stars": 203,
+                "stars": 202,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:38.037Z"
@@ -2473,7 +2473,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-11-13T21:36:17Z",
-                "open_issues": 25,
+                "open_issues": 24,
                 "owner": "Shopify",
                 "repo": "cli",
                 "stars": 777,
@@ -2590,7 +2590,7 @@
                 "open_issues": 27,
                 "owner": "Shopify",
                 "repo": "Shopify-AI-Toolkit",
-                "stars": 638,
+                "stars": 645,
                 "topics": [
                   "gemini-cli-extension"
                 ]
@@ -2725,7 +2725,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T19:27:05.180Z",
+    "last_updated": "2026-11-15T19:55:56.170Z",
     "original_repository_info": {
       "archived": false,
       "description": "📌✨A curated list of awesome Shopify resources, libraries and open source projects.",
@@ -2737,7 +2737,7 @@
       "open_issues": 30,
       "owner": "julionc",
       "repo": "awesome-shopify",
-      "stars": 1305,
+      "stars": 1307,
       "topics": [
         "awesome",
         "awesome-list",
