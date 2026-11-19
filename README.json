@@ -19,7 +19,7 @@
             "open_issues": 36,
             "owner": "Shopify",
             "repo": "dawn",
-            "stars": 3109,
+            "stars": 3108,
             "topics": []
           },
           "first_seen": "2026-08-28T23:39:38.037Z"
@@ -40,7 +40,7 @@
             "open_issues": 31,
             "owner": "Shopify",
             "repo": "horizon",
-            "stars": 484,
+            "stars": 485,
             "topics": []
           },
           "first_seen": "2026-08-28T23:39:38.037Z"
@@ -113,7 +113,7 @@
                 "open_issues": 46,
                 "owner": "Shopify",
                 "repo": "polaris-react-archive",
-                "stars": 6146,
+                "stars": 6144,
                 "topics": [
                   "component-library",
                   "design-system",
@@ -179,11 +179,11 @@
                 "id": 538665344,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-18T21:49:11Z",
-                "open_issues": 117,
+                "last_commit": "2026-11-19T21:52:35Z",
+                "open_issues": 118,
                 "owner": "Shopify",
                 "repo": "hydrogen",
-                "stars": 2181,
+                "stars": 2182,
                 "topics": [
                   "hydrogen",
                   "nextjs",
@@ -206,8 +206,8 @@
                 "id": 150124987,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-13T08:37:44Z",
-                "open_issues": 19,
+                "last_commit": "2026-11-19T05:44:43Z",
+                "open_issues": 21,
                 "owner": "Weaverse",
                 "repo": "pilot",
                 "stars": 393,
@@ -282,7 +282,7 @@
                 "open_issues": 46,
                 "owner": "Shopify",
                 "repo": "hydrogen-demo-store",
-                "stars": 236,
+                "stars": 235,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:38.037Z"
@@ -303,7 +303,7 @@
                 "open_issues": 0,
                 "owner": "montalvomiguelo",
                 "repo": "hydrogen-theme",
-                "stars": 179,
+                "stars": 180,
                 "topics": [
                   "hydrogen",
                   "islands",
@@ -328,8 +328,8 @@
                 "id": 760095032,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-16T23:13:03Z",
-                "open_issues": 20,
+                "last_commit": "2026-11-19T16:18:26Z",
+                "open_issues": 18,
                 "owner": "packdigital",
                 "repo": "pack-hydrogen-theme-blueprint",
                 "stars": 105,
@@ -355,7 +355,7 @@
                 "id": 1182092885,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-18T22:14:59Z",
+                "last_commit": "2026-11-19T22:23:20Z",
                 "open_issues": 9,
                 "owner": "vinpatel",
                 "repo": "aeorank",
@@ -498,7 +498,7 @@
                 "open_issues": 107,
                 "owner": "Shopify",
                 "repo": "mobile-buy-sdk-ios",
-                "stars": 490,
+                "stars": 488,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:38.037Z"
@@ -543,8 +543,8 @@
                 "id": 716182239,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-18T14:54:15Z",
-                "open_issues": 18,
+                "last_commit": "2026-11-19T16:33:37Z",
+                "open_issues": 20,
                 "owner": "Shopify",
                 "repo": "checkout-sheet-kit-react-native",
                 "stars": 80,
@@ -658,7 +658,7 @@
                 "open_issues": 47,
                 "owner": "Shopify",
                 "repo": "shopify-api-ruby",
-                "stars": 1116,
+                "stars": 1114,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:38.037Z"
@@ -707,7 +707,7 @@
                 "open_issues": 0,
                 "owner": "Shopify",
                 "repo": "shopify_python_api",
-                "stars": 1428,
+                "stars": 1427,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:38.037Z"
@@ -801,7 +801,7 @@
                 "open_issues": 30,
                 "owner": "MONEI",
                 "repo": "Shopify-api-node",
-                "stars": 982,
+                "stars": 981,
                 "topics": [
                   "ecommerce",
                   "javascript",
@@ -830,8 +830,8 @@
                 "id": 526668551,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-18T21:52:29Z",
-                "open_issues": 158,
+                "last_commit": "2026-11-19T21:59:06Z",
+                "open_issues": 157,
                 "owner": "Shopify",
                 "repo": "shopify-app-js",
                 "stars": 548,
@@ -887,7 +887,7 @@
                 "open_issues": 226,
                 "owner": "nozzlegear",
                 "repo": "ShopifySharp",
-                "stars": 906,
+                "stars": 902,
                 "topics": [
                   "csharp",
                   "dotnet",
@@ -1038,7 +1038,7 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-11-17T07:48:09Z",
-                "open_issues": 7,
+                "open_issues": 8,
                 "owner": "bold-commerce",
                 "repo": "go-shopify",
                 "stars": 394,
@@ -1137,7 +1137,7 @@
                 "open_issues": 115,
                 "owner": "phpclassic",
                 "repo": "php-shopify",
-                "stars": 604,
+                "stars": 603,
                 "topics": [
                   "php-sdk",
                   "php-shopify",
@@ -1185,7 +1185,7 @@
                 "open_issues": 0,
                 "owner": "Shopify",
                 "repo": "shopify-api-php",
-                "stars": 474,
+                "stars": 473,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:38.037Z"
@@ -1575,7 +1575,7 @@
                 "language": "Rust",
                 "license": null,
                 "last_commit": "2026-11-03T16:10:37Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "sinha-sahil",
                 "repo": "shopify-rust-client",
                 "stars": 3,
@@ -1745,7 +1745,7 @@
                 "open_issues": 151,
                 "owner": "Shopify",
                 "repo": "storefront-api-examples",
-                "stars": 1148,
+                "stars": 1146,
                 "topics": [
                   "apollo",
                   "ember",
@@ -1772,7 +1772,7 @@
                 "open_issues": 51,
                 "owner": "Shopify",
                 "repo": "shopify-app-template-node",
-                "stars": 1018,
+                "stars": 1017,
                 "topics": [
                   "javascript",
                   "react",
@@ -1798,7 +1798,7 @@
                 "open_issues": 0,
                 "owner": "VienDinhCom",
                 "repo": "next-shopify-storefront",
-                "stars": 874,
+                "stars": 873,
                 "topics": [
                   "eslint",
                   "graphql",
@@ -2109,7 +2109,7 @@
                 "open_issues": 88,
                 "owner": "Shopify",
                 "repo": "shopify-app-template-php",
-                "stars": 340,
+                "stars": 339,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:38.037Z"
@@ -2137,7 +2137,7 @@
                 "open_issues": 15,
                 "owner": "Shopify",
                 "repo": "shopify_django_app",
-                "stars": 505,
+                "stars": 503,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:38.037Z"
@@ -2338,7 +2338,7 @@
             "open_issues": 8,
             "owner": "freakdesign",
             "repo": "Shopify-code-snippets",
-            "stars": 602,
+            "stars": 601,
             "topics": []
           },
           "first_seen": "2026-08-28T23:39:38.037Z"
@@ -2448,7 +2448,7 @@
                 "open_issues": 5,
                 "owner": "Shopify",
                 "repo": "themekit",
-                "stars": 1327,
+                "stars": 1328,
                 "topics": [
                   "go",
                   "shopify",
@@ -2472,11 +2472,11 @@
                 "id": 505864478,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-18T22:05:48Z",
-                "open_issues": 25,
+                "last_commit": "2026-11-19T20:05:07Z",
+                "open_issues": 23,
                 "owner": "Shopify",
                 "repo": "cli",
-                "stars": 778,
+                "stars": 779,
                 "topics": [
                   "cli",
                   "oclif",
@@ -2590,7 +2590,7 @@
                 "open_issues": 27,
                 "owner": "Shopify",
                 "repo": "Shopify-AI-Toolkit",
-                "stars": 650,
+                "stars": 652,
                 "topics": [
                   "gemini-cli-extension"
                 ]
@@ -2725,7 +2725,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T22:18:05.197Z",
+    "last_updated": "2026-11-19T22:24:33.890Z",
     "original_repository_info": {
       "archived": false,
       "description": "📌✨A curated list of awesome Shopify resources, libraries and open source projects.",
@@ -2737,7 +2737,7 @@
       "open_issues": 31,
       "owner": "julionc",
       "repo": "awesome-shopify",
-      "stars": 1307,
+      "stars": 1306,
       "topics": [
         "awesome",
         "awesome-list",
