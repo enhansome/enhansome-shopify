@@ -53,8 +53,8 @@
 
 ## Themes & Design
 
-* [Shopify Dawn](https://github.com/Shopify/dawn) ⭐ 3,110 | 🐛 36 | 🌐 Liquid | 📅 2026-11-23 - Official Online Store 2.0 theme.
-* [Shopify Horizon](https://github.com/Shopify/horizon) ⭐ 486 | 🐛 31 | 🌐 Liquid | 📅 2026-11-10 - Flagship of Shopify’s next-gen themes.
+* [Shopify Dawn](https://github.com/Shopify/dawn) ⭐ 3,111 | 🐛 36 | 🌐 Liquid | 📅 2026-11-24 - Official Online Store 2.0 theme.
+* [Shopify Horizon](https://github.com/Shopify/horizon) ⭐ 487 | 🐛 31 | 🌐 Liquid | 📅 2026-11-10 - Flagship of Shopify’s next-gen themes.
 * [City Ecommerce UI Kit](https://github.com/shopifypartners/City-Ecommerce-UI-Kit) ⭐ 35 | 🐛 0 | 📅 2017-06-16
 * [Sketch Shopify Data Populator](https://github.com/shopifypartners/sketch-shopify-data-populator) ⭐ 24 | 🐛 0 | 📅 2017-03-31
 * [Figma – Dawn Theme](https://www.figma.com/community/file/1017615468313501249)
@@ -76,8 +76,8 @@
 
 ### Hydrogen (Headless)
 
-* [Hydrogen](https://hydrogen.shopify.dev) - Headless stack for custom storefronts. [Source code](https://github.com/Shopify/hydrogen) ⭐ 2,183 | 🐛 87 | 🌐 TypeScript | 📅 2026-11-24.
-* [Pilot (Weaverse Hydrogen Theme)](https://github.com/Weaverse/pilot) ⭐ 394 | 🐛 24 | 🌐 TypeScript | 📅 2026-11-23 - Fully featured Shopify Hydrogen theme crafted for launching modern, high-performance headless storefronts. Includes TypeScript, Tailwind CSS, GraphQL code generation, React Router, Oxygen deployment, and customization via Weaverse Studio. 🚀
+* [Hydrogen](https://hydrogen.shopify.dev) - Headless stack for custom storefronts. [Source code](https://github.com/Shopify/hydrogen) ⭐ 2,183 | 🐛 91 | 🌐 TypeScript | 📅 2026-11-24.
+* [Pilot (Weaverse Hydrogen Theme)](https://github.com/Weaverse/pilot) ⭐ 394 | 🐛 24 | 🌐 TypeScript | 📅 2026-11-24 - Fully featured Shopify Hydrogen theme crafted for launching modern, high-performance headless storefronts. Includes TypeScript, Tailwind CSS, GraphQL code generation, React Router, Oxygen deployment, and customization via Weaverse Studio. 🚀
 * [Fluid](https://github.com/frontvibe/fluid) ⭐ 293 | 🐛 17 | 🌐 TypeScript | 📅 2026-08-31 - Hydrogen + Sanity for structured content management.
 * [Hydrogen Demo Store](https://github.com/Shopify/hydrogen-demo-store) ⭐ 235 | 🐛 46 | 🌐 TypeScript | 📅 2026-10-27 - Official Hydrogen + Remix template, with full setup of components, queries and tooling for building a headless Shopify storefront. Deployed at hydrogen.shop. 🚀
 * [montalvomiguelo/hydrogen-theme](https://github.com/montalvomiguelo/hydrogen-theme) ⭐ 180 | 🐛 0 | 🌐 Liquid | 📅 2026-08-16 - A port of Hydrogen's default template to Shopify OS 2.0.
@@ -94,7 +94,7 @@
 ### Others
 
 * [Shopify Vite](https://github.com/barrel/shopify-vite) ⭐ 470 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-17 - Modern frontend tooling for Shopify theme development using Vite for a best-in-class DX.
-* [Shopify UI Extensions](https://github.com/Shopify/ui-extensions) ⭐ 356 | 🐛 445 | 🌐 TypeScript | 📅 2026-11-23 – Repo for the public definition of Shopify’s UI extension APIs. Developers use this to build strongly-typed UI extensions for Shopify surfaces. 🧰
+* [Shopify UI Extensions](https://github.com/Shopify/ui-extensions) ⭐ 356 | 🐛 446 | 🌐 TypeScript | 📅 2026-11-24 – Repo for the public definition of Shopify’s UI extension APIs. Developers use this to build strongly-typed UI extensions for Shopify surfaces. 🧰
 
 ## Mobile
 
@@ -110,8 +110,8 @@ You can use the iOS and Android Buy SDK to integrate Shopify checkout into your 
 
 Native SDKs for embedding Shopify’s one-page checkout UI directly into mobile apps — supporting styling, lifecycle events, and full checkout integration.
 
-* [Shopify Checkout Sheet Kit (React Native)](https://github.com/Shopify/checkout-sheet-kit-react-native) ⭐ 80 | 🐛 18 | 🌐 TypeScript | 📅 2026-11-23
-* [Shopify Checkout Sheet Kit (Swift)](https://github.com/Shopify/checkout-sheet-kit-swift) ⭐ 66 | 🐛 10 | 🌐 Swift | 📅 2026-11-18
+* [Shopify Checkout Sheet Kit (React Native)](https://github.com/Shopify/checkout-sheet-kit-react-native) ⭐ 80 | 🐛 13 | 🌐 TypeScript | 📅 2026-11-24
+* [Shopify Checkout Sheet Kit (Swift)](https://github.com/Shopify/checkout-sheet-kit-swift) ⭐ 66 | 🐛 10 | 🌐 Swift | 📅 2026-11-24
 * [Shopify Checkout Sheet Kit (Android)](https://github.com/Shopify/checkout-sheet-kit-android) ⭐ 26 | 🐛 15 | 🌐 Kotlin | 📅 2026-11-23
 
 ## Libraries
@@ -121,7 +121,7 @@ You can use official Shopify libraries or any of the third party libraries below
 ### Ruby
 
 * [A Rails Engine for building Shopify Apps](https://github.com/Shopify/shopify_app) ⭐ 1,951 | 🐛 65 | 🌐 Ruby | 📅 2026-11-12
-* [Shopify Ruby API](https://github.com/Shopify/shopify_api) ⭐ 1,114 | 🐛 48 | 🌐 Ruby | 📅 2026-11-06
+* [Shopify Ruby API](https://github.com/Shopify/shopify_api) ⭐ 1,114 | 🐛 49 | 🌐 Ruby | 📅 2026-11-06
 * [Shopify OAuth2 Strategy for OmniAuth](https://github.com/Shopify/omniauth-shopify-oauth2) ⭐ 92 | 🐛 20 | 🌐 Ruby | 📅 2026-03-27
 
 ### Python
@@ -248,7 +248,7 @@ You can use official Shopify libraries or any of the third party libraries below
 ### CLI Tools
 
 * [Theme Kit](https://github.com/Shopify/themekit) ⭐ 1,329 | 🐛 5 | 🌐 Go | 📅 2026-11-05 - Shopify theme development command line tool. ⚠️
-* [Shopify CLI](https://github.com/Shopify/cli) ⭐ 780 | 🐛 23 | 🌐 TypeScript | 📅 2026-11-23 - CLI to build apps, themes, and hydrogen storefronts for Shopify 🚀.
+* [Shopify CLI](https://github.com/Shopify/cli) ⭐ 780 | 🐛 22 | 🌐 TypeScript | 📅 2026-11-24 - CLI to build apps, themes, and hydrogen storefronts for Shopify 🚀.
 * [Theme Check](https://github.com/Shopify/theme-check) ⚠️ Archived - The Ultimate Shopify Theme Linter. ⚠️
 
 ### CI/CD & Deployment
@@ -263,7 +263,7 @@ You can use official Shopify libraries or any of the third party libraries below
 
 ### AI tools
 
-* [Agent plugins/extensions for CLIs and IDEs](https://github.com/shopify/shopify-ai-toolkit) ⭐ 652 | 🐛 27 | 🌐 JavaScript | 📅 2026-11-17
+* [Agent plugins/extensions for CLIs and IDEs](https://github.com/shopify/shopify-ai-toolkit) ⭐ 653 | 🐛 28 | 🌐 JavaScript | 📅 2026-11-17
 
 ### Services
 
